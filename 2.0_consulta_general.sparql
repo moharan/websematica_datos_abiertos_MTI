@@ -1,0 +1,3 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+#muestra 5 álbumes (wd:Q482994) de la banda Red Hot Chili Peppers(wd:Q10708) 
+SELECT ?album WHERE {   wd:Q10708 wd:Q482994 ?album .} LIMIT 5

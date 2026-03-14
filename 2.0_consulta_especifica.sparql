@@ -1,0 +1,36 @@
+PREFIX : <http://example.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX p: <https://www.wikidata.org/wiki/Property:>
+
+SELECT ?integrante ?concierto ?artista
+WHERE {
+  {
+    SELECT ?integrante ?concierto ?artista
+    WHERE {
+      BIND(:Mauricio_Beltran AS ?integrante)
+      ?integrante p:P1344 ?concierto .
+      ?concierto wd:P175 ?artista .
+    }
+    LIMIT 1
+  }
+  UNION
+  {
+    SELECT ?integrante ?concierto ?artista
+    WHERE {
+      BIND(:Rangi_Becerra AS ?integrante)
+      ?integrante p:P1344 ?concierto .
+      ?concierto wd:P175 ?artista .
+    }
+    LIMIT 1
+  }
+  UNION
+  {
+    SELECT ?integrante ?concierto ?artista
+    WHERE {
+      BIND(:Felipe_Troncoso AS ?integrante)
+      ?integrante p:P1344 ?concierto .
+      ?concierto wd:P175 ?artista .
+    }
+    LIMIT 1
+  }
+}

@@ -1,0 +1,72 @@
+PREFIX : <http://example.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX p: <https://www.wikidata.org/wiki/Property:>
+
+# 2 miembros de artistas preferidos por cada integrante
+SELECT ?integrante ?artista ?miembro
+WHERE {
+  {
+    SELECT ?integrante ?artista ?miembro
+    WHERE {
+      BIND(:Mauricio_Beltran AS ?integrante)
+      ?integrante p:P1775 ?artista .
+      ?artista wd:Q52630241 ?miembro .
+    }
+    LIMIT 2
+  }
+  UNION
+  {
+    SELECT ?integrante ?artista ?miembro
+    WHERE {
+      BIND(:Rangi_Becerra AS ?integrante)
+      ?integrante p:P1775 ?artista .
+      ?artista wd:Q52630241 ?miembro .
+    }
+    LIMIT 2
+  }
+  UNION
+  {
+    SELECT ?integrante ?artista ?miembro
+    WHERE {
+      BIND(:Felipe_Troncoso AS ?integrante)
+      ?integrante p:P1775 ?artista .
+      ?artista wd:Q52630241 ?miembro .
+    }
+    LIMIT 2
+  }
+}
+
+---------------------------------------------
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT ?guitarrista ?guitarristaLabel ?ciudadNacimiento ?ciudadNacimientoLabel
+WHERE {
+  VALUES ?guitarrista {
+    wd:Q211976
+    wd:Q450285
+    wd:Q19198
+    wd:Q280734
+    wd:Q2618412
+    wd:Q19201
+  }
+
+  ?guitarrista wdt:P19 ?ciudadNacimiento .
+
+  {
+    ?guitarrista wdt:P106/wdt:P279* wd:Q6607 .
+  }
+  UNION
+  {
+    ?guitarrista wdt:P1303 wd:Q6607 .
+  }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "es,en" .
+  }
+}
+
+
