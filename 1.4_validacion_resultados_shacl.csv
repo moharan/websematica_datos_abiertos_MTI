@@ -1,0 +1,378 @@
+"Id";"Node";"Shape";"Status";"Reason";"Date"
+"0-0";"<http://example.org/DT_Chile_2010>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-1";"<http://example.org/DT_Chile_2010>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/DT_Chile_2010>
+ <http://example.org/DT_Chile_2010> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-2";"<http://example.org/DT_Chile_2010>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Dream Theater en Movistar Arena (2010)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/DT_Chile_2010>
+ <http://example.org/DT_Chile_2010> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-3";"<http://example.org/DT_Chile_2010>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q162586> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/DT_Chile_2010>
+ <http://example.org/DT_Chile_2010> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-4";"<http://www.wikidata.org/entity/Q261>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-5";"<http://www.wikidata.org/entity/Q261>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q261>
+ <http://www.wikidata.org/entity/Q261> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-6";"<http://www.wikidata.org/entity/Q261>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q261>
+ <http://www.wikidata.org/entity/Q261> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-7";"<http://example.org/SymphonyX_Chile_2019>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-8";"<http://example.org/SymphonyX_Chile_2019>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/SymphonyX_Chile_2019>
+ <http://example.org/SymphonyX_Chile_2019> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-9";"<http://example.org/SymphonyX_Chile_2019>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Symphony X en Blondie (2019)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/SymphonyX_Chile_2019>
+ <http://example.org/SymphonyX_Chile_2019> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-10";"<http://example.org/SymphonyX_Chile_2019>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q648940> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/SymphonyX_Chile_2019>
+ <http://example.org/SymphonyX_Chile_2019> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-11";"<http://example.org/Avantasia_Chile_2025>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-12";"<http://example.org/Avantasia_Chile_2025>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Avantasia_Chile_2025>
+ <http://example.org/Avantasia_Chile_2025> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-13";"<http://example.org/Avantasia_Chile_2025>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Avantasia en Teatro Coliseo (2025)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Avantasia_Chile_2025>
+ <http://example.org/Avantasia_Chile_2025> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-14";"<http://example.org/Avantasia_Chile_2025>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q158641> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Avantasia_Chile_2025>
+ <http://example.org/Avantasia_Chile_2025> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-15";"<http://example.org/Felipe_Troncoso>";"<http://example.org/UserShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-16";"<http://example.org/Felipe_Troncoso>";"_:NodeLine15Col17";"Valid";"Evidences: <http://example.org/Felipe_Troncoso> satisfies property shape PropertyShape(_:NodeLine15Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1344>),List(NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-17";"<http://example.org/Felipe_Troncoso>";"_:NodeLine10Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q15935> is an IRI
+ <http://www.wikidata.org/entity/Q22668666> is an IRI
+ <http://www.wikidata.org/entity/Q27902902> is an IRI
+ <http://www.wikidata.org/entity/Q10708> is an IRI
+ <http://www.wikidata.org/entity/Q45165> is an IRI
+ <http://www.wikidata.org/entity/Q485039> is an IRI
+ <http://www.wikidata.org/entity/Q261> is an IRI
+ Checked minCount(1) for path(PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>)) on node <http://example.org/Felipe_Troncoso>
+ <http://example.org/Felipe_Troncoso> satisfies property shape PropertyShape(_:NodeLine10Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-18";"<http://example.org/MetalFest_2024>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-19";"<http://example.org/MetalFest_2024>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/MetalFest_2024>
+ <http://example.org/MetalFest_2024> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-20";"<http://example.org/MetalFest_2024>";"_:NodeLine24Col17";"Valid";"Evidences: ""metalfest 2024"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/MetalFest_2024>
+ <http://example.org/MetalFest_2024> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-21";"<http://example.org/MetalFest_2024>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q239074> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/MetalFest_2024>
+ <http://example.org/MetalFest_2024> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-22";"<http://example.org/Brutal_Assault_2017>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-23";"<http://example.org/Brutal_Assault_2017>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Brutal_Assault_2017>
+ <http://example.org/Brutal_Assault_2017> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-24";"<http://example.org/Brutal_Assault_2017>";"_:NodeLine24Col17";"Valid";"Evidences: ""brutal assault 2017"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Brutal_Assault_2017>
+ <http://example.org/Brutal_Assault_2017> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-25";"<http://example.org/Brutal_Assault_2017>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q18557> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Brutal_Assault_2017>
+ <http://example.org/Brutal_Assault_2017> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-26";"<http://example.org/Alcest_Brazil_2014>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-27";"<http://example.org/Alcest_Brazil_2014>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Alcest_Brazil_2014>
+ <http://example.org/Alcest_Brazil_2014> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-28";"<http://example.org/Alcest_Brazil_2014>";"_:NodeLine24Col17";"Valid";"Evidences: ""alcest brasil 2014"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Alcest_Brazil_2014>
+ <http://example.org/Alcest_Brazil_2014> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-29";"<http://example.org/Alcest_Brazil_2014>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q1517060> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Alcest_Brazil_2014>
+ <http://example.org/Alcest_Brazil_2014> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-30";"<http://www.wikidata.org/entity/Q485231>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-31";"<http://www.wikidata.org/entity/Q485231>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q485231>
+ <http://www.wikidata.org/entity/Q485231> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-32";"<http://www.wikidata.org/entity/Q485231>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q485231>
+ <http://www.wikidata.org/entity/Q485231> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-33";"<http://www.wikidata.org/entity/Q158895>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-34";"<http://www.wikidata.org/entity/Q158895>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q158895>
+ <http://www.wikidata.org/entity/Q158895> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-35";"<http://www.wikidata.org/entity/Q158895>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q158895>
+ <http://www.wikidata.org/entity/Q158895> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-36";"<http://www.wikidata.org/entity/Q131231>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-37";"<http://www.wikidata.org/entity/Q131231>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q131231>
+ <http://www.wikidata.org/entity/Q131231> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-38";"<http://www.wikidata.org/entity/Q131231>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q131231>
+ <http://www.wikidata.org/entity/Q131231> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-39";"<http://www.wikidata.org/entity/Q158641>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-40";"<http://www.wikidata.org/entity/Q158641>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q158641>
+ <http://www.wikidata.org/entity/Q158641> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-41";"<http://www.wikidata.org/entity/Q158641>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q158641>
+ <http://www.wikidata.org/entity/Q158641> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-42";"<http://example.org/Lollapaloza_2011>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-43";"<http://example.org/Lollapaloza_2011>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Lollapaloza_2011>
+ <http://example.org/Lollapaloza_2011> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-44";"<http://example.org/Lollapaloza_2011>";"_:NodeLine24Col17";"Valid";"Evidences: ""lollapaloza 2011"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Lollapaloza_2011>
+ <http://example.org/Lollapaloza_2011> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-45";"<http://example.org/Lollapaloza_2011>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q485039> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Lollapaloza_2011>
+ <http://example.org/Lollapaloza_2011> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-46";"<http://www.wikidata.org/entity/Q485039>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-47";"<http://www.wikidata.org/entity/Q485039>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q485039>
+ <http://www.wikidata.org/entity/Q485039> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-48";"<http://www.wikidata.org/entity/Q485039>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q485039>
+ <http://www.wikidata.org/entity/Q485039> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-49";"<http://www.wikidata.org/entity/Q7857598>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-50";"<http://www.wikidata.org/entity/Q7857598>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q7857598>
+ <http://www.wikidata.org/entity/Q7857598> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-51";"<http://www.wikidata.org/entity/Q7857598>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q7857598>
+ <http://www.wikidata.org/entity/Q7857598> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-52";"<http://www.wikidata.org/entity/Q27902902>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-53";"<http://www.wikidata.org/entity/Q27902902>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q27902902>
+ <http://www.wikidata.org/entity/Q27902902> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-54";"<http://www.wikidata.org/entity/Q27902902>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q27902902>
+ <http://www.wikidata.org/entity/Q27902902> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-55";"<http://example.org/SymphonyX_Chile_2007>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-56";"<http://example.org/SymphonyX_Chile_2007>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/SymphonyX_Chile_2007>
+ <http://example.org/SymphonyX_Chile_2007> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-57";"<http://example.org/SymphonyX_Chile_2007>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Symphony X en Teatro Caupolicán (2007)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/SymphonyX_Chile_2007>
+ <http://example.org/SymphonyX_Chile_2007> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-58";"<http://example.org/SymphonyX_Chile_2007>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q648940> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/SymphonyX_Chile_2007>
+ <http://example.org/SymphonyX_Chile_2007> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-59";"<http://www.wikidata.org/entity/Q1452121>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-60";"<http://www.wikidata.org/entity/Q1452121>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q1452121>
+ <http://www.wikidata.org/entity/Q1452121> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-61";"<http://www.wikidata.org/entity/Q1452121>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q1452121>
+ <http://www.wikidata.org/entity/Q1452121> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-62";"<http://example.org/Sepultura_2016>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-63";"<http://example.org/Sepultura_2016>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Sepultura_2016>
+ <http://example.org/Sepultura_2016> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-64";"<http://example.org/Sepultura_2016>";"_:NodeLine24Col17";"Valid";"Evidences: ""sepultura 2016"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Sepultura_2016>
+ <http://example.org/Sepultura_2016> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-65";"<http://example.org/Sepultura_2016>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q239074> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Sepultura_2016>
+ <http://example.org/Sepultura_2016> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-66";"<http://www.wikidata.org/entity/Q2411265>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-67";"<http://www.wikidata.org/entity/Q2411265>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q2411265>
+ <http://www.wikidata.org/entity/Q2411265> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-68";"<http://www.wikidata.org/entity/Q2411265>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q2411265>
+ <http://www.wikidata.org/entity/Q2411265> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-69";"<http://www.wikidata.org/entity/Q162586>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-70";"<http://www.wikidata.org/entity/Q162586>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q162586>
+ <http://www.wikidata.org/entity/Q162586> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-71";"<http://www.wikidata.org/entity/Q162586>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q162586>
+ <http://www.wikidata.org/entity/Q162586> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-72";"<http://example.org/Avantasia_Chile_2019>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-73";"<http://example.org/Avantasia_Chile_2019>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Avantasia_Chile_2019>
+ <http://example.org/Avantasia_Chile_2019> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-74";"<http://example.org/Avantasia_Chile_2019>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Avantasia en Teatro Caupolicán (2019)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Avantasia_Chile_2019>
+ <http://example.org/Avantasia_Chile_2019> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-75";"<http://example.org/Avantasia_Chile_2019>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q158641> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Avantasia_Chile_2019>
+ <http://example.org/Avantasia_Chile_2019> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-76";"<http://example.org/Slayer_2019>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-77";"<http://example.org/Slayer_2019>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Slayer_2019>
+ <http://example.org/Slayer_2019> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-78";"<http://example.org/Slayer_2019>";"_:NodeLine24Col17";"Valid";"Evidences: ""slayer 2019"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Slayer_2019>
+ <http://example.org/Slayer_2019> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-79";"<http://example.org/Slayer_2019>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q131231> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Slayer_2019>
+ <http://example.org/Slayer_2019> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-80";"<http://example.org/Cannibal_Corpse_2018>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-81";"<http://example.org/Cannibal_Corpse_2018>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Cannibal_Corpse_2018>
+ <http://example.org/Cannibal_Corpse_2018> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-82";"<http://example.org/Cannibal_Corpse_2018>";"_:NodeLine24Col17";"Valid";"Evidences: ""cannibal corpse 2018"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Cannibal_Corpse_2018>
+ <http://example.org/Cannibal_Corpse_2018> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-83";"<http://example.org/Cannibal_Corpse_2018>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q485231> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Cannibal_Corpse_2018>
+ <http://example.org/Cannibal_Corpse_2018> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-84";"<http://www.wikidata.org/entity/Q45165>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-85";"<http://www.wikidata.org/entity/Q45165>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q45165>
+ <http://www.wikidata.org/entity/Q45165> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-86";"<http://www.wikidata.org/entity/Q45165>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q45165>
+ <http://www.wikidata.org/entity/Q45165> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-87";"<http://example.org/Lollapaloza_2025>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-88";"<http://example.org/Lollapaloza_2025>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Lollapaloza_2025>
+ <http://example.org/Lollapaloza_2025> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-89";"<http://example.org/Lollapaloza_2025>";"_:NodeLine24Col17";"Valid";"Evidences: ""lollapaloza 2025"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Lollapaloza_2025>
+ <http://example.org/Lollapaloza_2025> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-90";"<http://example.org/Lollapaloza_2025>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q239074> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Lollapaloza_2025>
+ <http://example.org/Lollapaloza_2025> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-91";"<http://example.org/DT_Chile_2024>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-92";"<http://example.org/DT_Chile_2024>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/DT_Chile_2024>
+ <http://example.org/DT_Chile_2024> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-93";"<http://example.org/DT_Chile_2024>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Dream Theater en Movistar Arena (2024)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/DT_Chile_2024>
+ <http://example.org/DT_Chile_2024> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-94";"<http://example.org/DT_Chile_2024>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q162586> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/DT_Chile_2024>
+ <http://example.org/DT_Chile_2024> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-95";"<http://example.org/Slayer_2017>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-96";"<http://example.org/Slayer_2017>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Slayer_2017>
+ <http://example.org/Slayer_2017> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-97";"<http://example.org/Slayer_2017>";"_:NodeLine24Col17";"Valid";"Evidences: ""slayer 2017"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Slayer_2017>
+ <http://example.org/Slayer_2017> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-98";"<http://example.org/Slayer_2017>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q131231> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Slayer_2017>
+ <http://example.org/Slayer_2017> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-99";"<http://example.org/Avantasia_Chile_2023>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-100";"<http://example.org/Avantasia_Chile_2023>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Avantasia_Chile_2023>
+ <http://example.org/Avantasia_Chile_2023> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-101";"<http://example.org/Avantasia_Chile_2023>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Avantasia en Teatro Caupolicán (2023)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Avantasia_Chile_2023>
+ <http://example.org/Avantasia_Chile_2023> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-102";"<http://example.org/Avantasia_Chile_2023>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q158641> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Avantasia_Chile_2023>
+ <http://example.org/Avantasia_Chile_2023> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-103";"<http://example.org/Helloween_Chile_2017>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-104";"<http://example.org/Helloween_Chile_2017>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Helloween_Chile_2017>
+ <http://example.org/Helloween_Chile_2017> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-105";"<http://example.org/Helloween_Chile_2017>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Helloween en Movistar Arena (2017)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Helloween_Chile_2017>
+ <http://example.org/Helloween_Chile_2017> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-106";"<http://example.org/Helloween_Chile_2017>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q158895> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Helloween_Chile_2017>
+ <http://example.org/Helloween_Chile_2017> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-107";"<http://example.org/Avantasia_Chile_2013>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-108";"<http://example.org/Avantasia_Chile_2013>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Avantasia_Chile_2013>
+ <http://example.org/Avantasia_Chile_2013> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-109";"<http://example.org/Avantasia_Chile_2013>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Avantasia en Teatro Caupolicán (2013)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Avantasia_Chile_2013>
+ <http://example.org/Avantasia_Chile_2013> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-110";"<http://example.org/Avantasia_Chile_2013>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q158641> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Avantasia_Chile_2013>
+ <http://example.org/Avantasia_Chile_2013> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-111";"<http://www.wikidata.org/entity/Q22668666>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-112";"<http://www.wikidata.org/entity/Q22668666>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q22668666>
+ <http://www.wikidata.org/entity/Q22668666> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-113";"<http://www.wikidata.org/entity/Q22668666>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q22668666>
+ <http://www.wikidata.org/entity/Q22668666> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-114";"<http://www.wikidata.org/entity/Q1517060>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-115";"<http://www.wikidata.org/entity/Q1517060>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q1517060>
+ <http://www.wikidata.org/entity/Q1517060> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-116";"<http://www.wikidata.org/entity/Q1517060>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q1517060>
+ <http://www.wikidata.org/entity/Q1517060> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-117";"<http://www.wikidata.org/entity/Q10708>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-118";"<http://www.wikidata.org/entity/Q10708>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q10708>
+ <http://www.wikidata.org/entity/Q10708> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-119";"<http://www.wikidata.org/entity/Q10708>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q10708>
+ <http://www.wikidata.org/entity/Q10708> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-120";"<http://example.org/SymphonyX_Chile_2022>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-121";"<http://example.org/SymphonyX_Chile_2022>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/SymphonyX_Chile_2022>
+ <http://example.org/SymphonyX_Chile_2022> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-122";"<http://example.org/SymphonyX_Chile_2022>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Symphony X en Teatro Caupolicán (2022)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/SymphonyX_Chile_2022>
+ <http://example.org/SymphonyX_Chile_2022> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-123";"<http://example.org/SymphonyX_Chile_2022>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q648940> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/SymphonyX_Chile_2022>
+ <http://example.org/SymphonyX_Chile_2022> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-124";"<http://example.org/SymphonyX_Chile_2026>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-125";"<http://example.org/SymphonyX_Chile_2026>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/SymphonyX_Chile_2026>
+ <http://example.org/SymphonyX_Chile_2026> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-126";"<http://example.org/SymphonyX_Chile_2026>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Symphony X en Teatro Teletón (2026)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/SymphonyX_Chile_2026>
+ <http://example.org/SymphonyX_Chile_2026> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-127";"<http://example.org/SymphonyX_Chile_2026>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q648940> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/SymphonyX_Chile_2026>
+ <http://example.org/SymphonyX_Chile_2026> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-128";"<http://www.wikidata.org/entity/Q239074>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-129";"<http://www.wikidata.org/entity/Q239074>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q239074>
+ <http://www.wikidata.org/entity/Q239074> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-130";"<http://www.wikidata.org/entity/Q239074>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q239074>
+ <http://www.wikidata.org/entity/Q239074> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-131";"<http://example.org/Rangi_Becerra>";"<http://example.org/UserShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-132";"<http://example.org/Rangi_Becerra>";"_:NodeLine15Col17";"Valid";"Evidences: <http://example.org/Slayer_2019> is an IRI
+ <http://example.org/Lollapaloza_2025> is an IRI
+ <http://example.org/Alcest_2023> is an IRI
+ <http://example.org/Brutal_Assault_2017> is an IRI
+ <http://example.org/Lollapaloza_2011> is an IRI
+ <http://example.org/Alcest_2014> is an IRI
+ <http://example.org/Slayer_2017> is an IRI
+ <http://example.org/Cannibal_Corpse_2018> is an IRI
+ <http://example.org/Opeth_2023> is an IRI
+ <http://example.org/Alcest_Brazil_2014> is an IRI
+ <http://example.org/MetalFest_2024> is an IRI
+ <http://example.org/Sepultura_2016> is an IRI
+ <http://example.org/Rangi_Becerra> satisfies property shape PropertyShape(_:NodeLine15Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1344>),List(NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-133";"<http://example.org/Rangi_Becerra>";"_:NodeLine10Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q1517060> is an IRI
+ <http://www.wikidata.org/entity/Q131231> is an IRI
+ <http://www.wikidata.org/entity/Q239074> is an IRI
+ <http://www.wikidata.org/entity/Q18557> is an IRI
+ <http://www.wikidata.org/entity/Q485039> is an IRI
+ <http://www.wikidata.org/entity/Q2411265> is an IRI
+ <http://www.wikidata.org/entity/Q485231> is an IRI
+ Checked minCount(1) for path(PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>)) on node <http://example.org/Rangi_Becerra>
+ <http://example.org/Rangi_Becerra> satisfies property shape PropertyShape(_:NodeLine10Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-134";"<http://example.org/SymphonyX_Chile_2024>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-135";"<http://example.org/SymphonyX_Chile_2024>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/SymphonyX_Chile_2024>
+ <http://example.org/SymphonyX_Chile_2024> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-136";"<http://example.org/SymphonyX_Chile_2024>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Symphony X en Teatro Coliseo (2024)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/SymphonyX_Chile_2024>
+ <http://example.org/SymphonyX_Chile_2024> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-137";"<http://example.org/SymphonyX_Chile_2024>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q648940> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/SymphonyX_Chile_2024>
+ <http://example.org/SymphonyX_Chile_2024> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-138";"<http://example.org/Alcest_2014>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-139";"<http://example.org/Alcest_2014>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Alcest_2014>
+ <http://example.org/Alcest_2014> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-140";"<http://example.org/Alcest_2014>";"_:NodeLine24Col17";"Valid";"Evidences: ""alcest 2014"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Alcest_2014>
+ <http://example.org/Alcest_2014> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-141";"<http://example.org/Alcest_2014>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q1517060> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Alcest_2014>
+ <http://example.org/Alcest_2014> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-142";"<http://www.wikidata.org/entity/Q648940>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-143";"<http://www.wikidata.org/entity/Q648940>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q648940>
+ <http://www.wikidata.org/entity/Q648940> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-144";"<http://www.wikidata.org/entity/Q648940>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q648940>
+ <http://www.wikidata.org/entity/Q648940> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-145";"<http://example.org/Alcest_2023>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-146";"<http://example.org/Alcest_2023>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Alcest_2023>
+ <http://example.org/Alcest_2023> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-147";"<http://example.org/Alcest_2023>";"_:NodeLine24Col17";"Valid";"Evidences: ""alcest 2023"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Alcest_2023>
+ <http://example.org/Alcest_2023> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-148";"<http://example.org/Alcest_2023>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q1517060> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Alcest_2023>
+ <http://example.org/Alcest_2023> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-149";"<http://example.org/Opeth_2023>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-150";"<http://example.org/Opeth_2023>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/Opeth_2023>
+ <http://example.org/Opeth_2023> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-151";"<http://example.org/Opeth_2023>";"_:NodeLine24Col17";"Valid";"Evidences: ""opeth 2023"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/Opeth_2023>
+ <http://example.org/Opeth_2023> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-152";"<http://example.org/Opeth_2023>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q18557> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/Opeth_2023>
+ <http://example.org/Opeth_2023> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-153";"<http://www.wikidata.org/entity/Q15935>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-154";"<http://www.wikidata.org/entity/Q15935>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q15935>
+ <http://www.wikidata.org/entity/Q15935> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-155";"<http://www.wikidata.org/entity/Q15935>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q15935>
+ <http://www.wikidata.org/entity/Q15935> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-156";"<http://example.org/DT_Chile_2008>";"<http://example.org/ConcertShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-157";"<http://example.org/DT_Chile_2008>";"_:NodeLine34Col17";"Valid";"Evidences: Checked minCount(2) for path(PredicatePath(<http://www.wikidata.org/entity/P276>)) on node <http://example.org/DT_Chile_2008>
+ <http://example.org/DT_Chile_2008> satisfies property shape PropertyShape(_:NodeLine34Col17,PredicatePath(<http://www.wikidata.org/entity/P276>),List(MinCount(2)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-158";"<http://example.org/DT_Chile_2008>";"_:NodeLine24Col17";"Valid";"Evidences: ""Concierto de Dream Theater en Movistar Arena (2008)"" is a Literal
+ Checked minCount(1) for path(PredicatePath(<http://example.org/label>)) on node <http://example.org/DT_Chile_2008>
+ <http://example.org/DT_Chile_2008> satisfies property shape PropertyShape(_:NodeLine24Col17,PredicatePath(<http://example.org/label>),List(MinCount(1), NodeKind(LiteralKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-159";"<http://example.org/DT_Chile_2008>";"_:NodeLine29Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q162586> is an IRI
+ Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/P175>)) on node <http://example.org/DT_Chile_2008>
+ <http://example.org/DT_Chile_2008> satisfies property shape PropertyShape(_:NodeLine29Col17,PredicatePath(<http://www.wikidata.org/entity/P175>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-160";"<http://www.wikidata.org/entity/Q18557>";"<http://example.org/BandShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-161";"<http://www.wikidata.org/entity/Q18557>";"_:NodeLine47Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q482994>)) on node <http://www.wikidata.org/entity/Q18557>
+ <http://www.wikidata.org/entity/Q18557> satisfies property shape PropertyShape(_:NodeLine47Col17,PredicatePath(<http://www.wikidata.org/entity/Q482994>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-162";"<http://www.wikidata.org/entity/Q18557>";"_:NodeLine43Col17";"Valid";"Evidences: Checked minCount(1) for path(PredicatePath(<http://www.wikidata.org/entity/Q188451>)) on node <http://www.wikidata.org/entity/Q18557>
+ <http://www.wikidata.org/entity/Q18557> satisfies property shape PropertyShape(_:NodeLine43Col17,PredicatePath(<http://www.wikidata.org/entity/Q188451>),List(MinCount(1)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-163";"<http://example.org/Mauricio_Beltran>";"<http://example.org/UserShape>";"Valid";"Evidences: ";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-164";"<http://example.org/Mauricio_Beltran>";"_:NodeLine15Col17";"Valid";"Evidences: <http://example.org/SymphonyX_Chile_2022> is an IRI
+ <http://example.org/SymphonyX_Chile_2007> is an IRI
+ <http://example.org/Helloween_Chile_2017> is an IRI
+ <http://example.org/SymphonyX_Chile_2026> is an IRI
+ <http://example.org/Avantasia_Chile_2013> is an IRI
+ <http://example.org/DT_Chile_2008> is an IRI
+ <http://example.org/SymphonyX_Chile_2024> is an IRI
+ <http://example.org/SymphonyX_Chile_2019> is an IRI
+ <http://example.org/Avantasia_Chile_2019> is an IRI
+ <http://example.org/DT_Chile_2010> is an IRI
+ <http://example.org/Avantasia_Chile_2025> is an IRI
+ <http://example.org/DT_Chile_2024> is an IRI
+ <http://example.org/Avantasia_Chile_2023> is an IRI
+ <http://example.org/Mauricio_Beltran> satisfies property shape PropertyShape(_:NodeLine15Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1344>),List(NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"
+"0-165";"<http://example.org/Mauricio_Beltran>";"_:NodeLine10Col17";"Valid";"Evidences: <http://www.wikidata.org/entity/Q162586> is an IRI
+ <http://www.wikidata.org/entity/Q1452121> is an IRI
+ <http://www.wikidata.org/entity/Q648940> is an IRI
+ <http://www.wikidata.org/entity/Q7857598> is an IRI
+ <http://www.wikidata.org/entity/Q158895> is an IRI
+ <http://www.wikidata.org/entity/Q158641> is an IRI
+ Checked minCount(1) for path(PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>)) on node <http://example.org/Mauricio_Beltran>
+ <http://example.org/Mauricio_Beltran> satisfies property shape PropertyShape(_:NodeLine10Col17,PredicatePath(<https://www.wikidata.org/wiki/Property:P1775>),List(MinCount(1), NodeKind(IRIKind)),List(),List(),false,List(),false,,None,,,None,None,None,List())";"Fri Mar 13 2026 21:59:12 GMT-0300 (hora de verano de Chile)"

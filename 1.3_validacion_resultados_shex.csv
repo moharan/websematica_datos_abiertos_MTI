@@ -1,0 +1,249 @@
+"Id";"Node";"Shape";"Status";"Reason";"Date"
+"0-0";"<http://example.org/DT_Chile_2010>";"<http://example.org/ConcertShape>";"Valid";":DT_Chile_2010 passed  [ wd:Q182832] {1,1} for path wd:P31
+:DT_Chile_2010 passed  Literal {1,1} for path :label
+:DT_Chile_2010 passed  [ wd:~] {1,1} for path wd:P175
+:DT_Chile_2010 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-1";"<http://www.wikidata.org/entity/Q261>";"<http://example.org/BandShape>";"Valid";"wd:Q261 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q261 passed  [ wd:~] + for path wd:Q188451
+wd:Q261 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q261 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-2";"<http://www.wikidata.org/entity/Q948829>";"<http://example.org/AlbumShape>";"Valid";"wd:Q948829 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q948829 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q948829 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-3";"<http://example.org/SymphonyX_Chile_2019>";"<http://example.org/ConcertShape>";"Valid";":SymphonyX_Chile_2019 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2019 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2019 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2019 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-4";"<http://example.org/Avantasia_Chile_2025>";"<http://example.org/ConcertShape>";"Valid";":Avantasia_Chile_2025 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Avantasia_Chile_2025 passed  Literal {1,1} for path :label
+:Avantasia_Chile_2025 passed  [ wd:~] {1,1} for path wd:P175
+:Avantasia_Chile_2025 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-5";"<http://example.org/MetalFest_2024>";"<http://example.org/ConcertShape>";"Valid";":MetalFest_2024 passed  [ wd:Q182832] {1,1} for path wd:P31
+:MetalFest_2024 passed  Literal {1,1} for path :label
+:MetalFest_2024 passed  [ wd:~] {1,1} for path wd:P175
+:MetalFest_2024 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-6";"<http://example.org/Alcest_Brazil_2014>";"<http://example.org/ConcertShape>";"Valid";":Alcest_Brazil_2014 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Alcest_Brazil_2014 passed  Literal {1,1} for path :label
+:Alcest_Brazil_2014 passed  [ wd:~] {1,1} for path wd:P175
+:Alcest_Brazil_2014 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-7";"<http://www.wikidata.org/entity/Q485231>";"<http://example.org/BandShape>";"Valid";"wd:Q485231 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q485231 passed  [ wd:~] + for path wd:Q188451
+wd:Q485231 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q485231 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-8";"<http://www.wikidata.org/entity/Q158895>";"<http://example.org/BandShape>";"Valid";"wd:Q158895 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q158895 passed  [ wd:~] + for path wd:Q188451
+wd:Q158895 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q158895 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-9";"<http://www.wikidata.org/entity/Q547624>";"<http://example.org/AlbumShape>";"Valid";"wd:Q547624 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q547624 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q547624 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-10";"<http://www.wikidata.org/entity/Q158641>";"<http://example.org/BandShape>";"Valid";"wd:Q158641 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q158641 passed  [ wd:~] + for path wd:Q188451
+wd:Q158641 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q158641 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-11";"<http://example.org/Lollapaloza_2011>";"<http://example.org/ConcertShape>";"Valid";":Lollapaloza_2011 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Lollapaloza_2011 passed  Literal {1,1} for path :label
+:Lollapaloza_2011 passed  [ wd:~] {1,1} for path wd:P175
+:Lollapaloza_2011 passed  [  wd:~ :~] * for path wd:P276
+:Lollapaloza_2011 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Lollapaloza_2011 passed  Literal {1,1} for path :label
+:Lollapaloza_2011 passed  [ wd:~] {1,1} for path wd:P175
+:Lollapaloza_2011 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-12";"<http://www.wikidata.org/entity/Q485039>";"<http://example.org/BandShape>";"Valid";"wd:Q485039 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q485039 passed  [ wd:~] + for path wd:Q188451
+wd:Q485039 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q485039 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-13";"<http://www.wikidata.org/entity/Q7857598>";"<http://example.org/BandShape>";"Valid";"wd:Q7857598 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q7857598 passed  [ wd:~] + for path wd:Q188451
+wd:Q7857598 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q7857598 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-14";"<http://www.wikidata.org/entity/Q27902902>";"<http://example.org/BandShape>";"Valid";"wd:Q27902902 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q27902902 passed  [ wd:~] + for path wd:Q188451
+wd:Q27902902 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q27902902 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-15";"<http://example.org/SymphonyX_Chile_2007>";"<http://example.org/ConcertShape>";"Valid";":SymphonyX_Chile_2007 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2007 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2007 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2007 passed  [  wd:~ :~] * for path wd:P276
+:SymphonyX_Chile_2007 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2007 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2007 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2007 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-16";"<http://www.wikidata.org/entity/Q1452121>";"<http://example.org/BandShape>";"Valid";"wd:Q1452121 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q1452121 passed  [ wd:~] + for path wd:Q188451
+wd:Q1452121 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q1452121 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-17";"<http://example.org/Sepultura_2016>";"<http://example.org/ConcertShape>";"Valid";":Sepultura_2016 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Sepultura_2016 passed  Literal {1,1} for path :label
+:Sepultura_2016 passed  [ wd:~] {1,1} for path wd:P175
+:Sepultura_2016 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-18";"<http://www.wikidata.org/entity/Q2411265>";"<http://example.org/BandShape>";"Valid";"wd:Q2411265 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q2411265 passed  [ wd:~] + for path wd:Q188451
+wd:Q2411265 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q2411265 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-19";"<http://www.wikidata.org/entity/Q162586>";"<http://example.org/BandShape>";"Valid";"wd:Q162586 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q162586 passed  [ wd:~] + for path wd:Q188451
+wd:Q162586 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q162586 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-20";"<http://example.org/Avantasia_Chile_2019>";"<http://example.org/ConcertShape>";"Valid";":Avantasia_Chile_2019 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Avantasia_Chile_2019 passed  Literal {1,1} for path :label
+:Avantasia_Chile_2019 passed  [ wd:~] {1,1} for path wd:P175
+:Avantasia_Chile_2019 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-21";"<http://example.org/Slayer_2019>";"<http://example.org/ConcertShape>";"Valid";":Slayer_2019 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Slayer_2019 passed  Literal {1,1} for path :label
+:Slayer_2019 passed  [ wd:~] {1,1} for path wd:P175
+:Slayer_2019 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-22";"<http://example.org/Cannibal_Corpse_2018>";"<http://example.org/ConcertShape>";"Valid";":Cannibal_Corpse_2018 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Cannibal_Corpse_2018 passed  Literal {1,1} for path :label
+:Cannibal_Corpse_2018 passed  [ wd:~] {1,1} for path wd:P175
+:Cannibal_Corpse_2018 passed  [  wd:~ :~] * for path wd:P276
+:Cannibal_Corpse_2018 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Cannibal_Corpse_2018 passed  Literal {1,1} for path :label
+:Cannibal_Corpse_2018 passed  [ wd:~] {1,1} for path wd:P175
+:Cannibal_Corpse_2018 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-23";"<http://www.wikidata.org/entity/Q45165>";"<http://example.org/BandShape>";"Valid";"wd:Q45165 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q45165 passed  [ wd:~] + for path wd:Q188451
+wd:Q45165 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q45165 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-24";"<http://example.org/Lollapaloza_2025>";"<http://example.org/ConcertShape>";"Valid";":Lollapaloza_2025 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Lollapaloza_2025 passed  Literal {1,1} for path :label
+:Lollapaloza_2025 passed  [ wd:~] {1,1} for path wd:P175
+:Lollapaloza_2025 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-25";"<http://example.org/DT_Chile_2024>";"<http://example.org/ConcertShape>";"Valid";":DT_Chile_2024 passed  [ wd:Q182832] {1,1} for path wd:P31
+:DT_Chile_2024 passed  Literal {1,1} for path :label
+:DT_Chile_2024 passed  [ wd:~] {1,1} for path wd:P175
+:DT_Chile_2024 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-26";"<http://example.org/Slayer_2017>";"<http://example.org/ConcertShape>";"Valid";":Slayer_2017 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Slayer_2017 passed  Literal {1,1} for path :label
+:Slayer_2017 passed  [ wd:~] {1,1} for path wd:P175
+:Slayer_2017 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-27";"<http://example.org/Avantasia_Chile_2023>";"<http://example.org/ConcertShape>";"Valid";":Avantasia_Chile_2023 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Avantasia_Chile_2023 passed  Literal {1,1} for path :label
+:Avantasia_Chile_2023 passed  [ wd:~] {1,1} for path wd:P175
+:Avantasia_Chile_2023 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-28";"<http://example.org/Helloween_Chile_2017>";"<http://example.org/ConcertShape>";"Valid";":Helloween_Chile_2017 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Helloween_Chile_2017 passed  Literal {1,1} for path :label
+:Helloween_Chile_2017 passed  [ wd:~] {1,1} for path wd:P175
+:Helloween_Chile_2017 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-29";"<http://example.org/Avantasia_Chile_2013>";"<http://example.org/ConcertShape>";"Valid";":Avantasia_Chile_2013 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Avantasia_Chile_2013 passed  Literal {1,1} for path :label
+:Avantasia_Chile_2013 passed  [ wd:~] {1,1} for path wd:P175
+:Avantasia_Chile_2013 passed  [  wd:~ :~] * for path wd:P276
+:Avantasia_Chile_2013 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Avantasia_Chile_2013 passed  Literal {1,1} for path :label
+:Avantasia_Chile_2013 passed  [ wd:~] {1,1} for path wd:P175
+:Avantasia_Chile_2013 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-30";"<http://www.wikidata.org/entity/Q22668666>";"<http://example.org/BandShape>";"Valid";"wd:Q22668666 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q22668666 passed  [ wd:~] + for path wd:Q188451
+wd:Q22668666 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q22668666 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-31";"<http://www.wikidata.org/entity/Q1517060>";"<http://example.org/BandShape>";"Valid";"wd:Q1517060 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q1517060 passed  [ wd:~] + for path wd:Q188451
+wd:Q1517060 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q1517060 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-32";"<http://www.wikidata.org/entity/Q10708>";"<http://example.org/BandShape>";"Valid";"wd:Q10708 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q10708 passed  [ wd:~] + for path wd:Q188451
+wd:Q10708 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q10708 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-33";"<http://example.org/SymphonyX_Chile_2022>";"<http://example.org/ConcertShape>";"Valid";":SymphonyX_Chile_2022 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2022 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2022 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2022 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-34";"<http://example.org/SymphonyX_Chile_2026>";"<http://example.org/ConcertShape>";"Valid";":SymphonyX_Chile_2026 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2026 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2026 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2026 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-35";"<http://www.wikidata.org/entity/Q239074>";"<http://example.org/BandShape>";"Valid";"wd:Q239074 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q239074 passed  [ wd:~] + for path wd:Q188451
+wd:Q239074 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q239074 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-36";"<http://www.wikidata.org/entity/Q117817>";"<http://example.org/AlbumShape>";"Valid";"wd:Q117817 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q117817 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q117817 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-37";"<http://example.org/Felipe_Troncoso>";"<http://example.org/UserShape>";"Valid";"wd:Q485039 matches with stem wd:
+wd:Q27902902 matches with stem wd:
+wd:Q261 matches with stem wd:
+wd:Q45165 matches with stem wd:
+wd:Q15935 matches with stem wd:
+wd:Q22668666 matches with stem wd:
+wd:Q10708 matches with stem wd:";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-38";"<http://example.org/Rangi_Becerra>";"<http://example.org/UserShape>";"Valid";"wd:Q485039 matches with stem wd:
+wd:Q2411265 matches with stem wd:
+wd:Q1517060 matches with stem wd:
+wd:Q239074 matches with stem wd:
+wd:Q485231 matches with stem wd:
+wd:Q131231 matches with stem wd:
+wd:Q18557 matches with stem wd:";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-39";"<http://example.org/SymphonyX_Chile_2024>";"<http://example.org/ConcertShape>";"Valid";":SymphonyX_Chile_2024 passed  [ wd:Q182832] {1,1} for path wd:P31
+:SymphonyX_Chile_2024 passed  Literal {1,1} for path :label
+:SymphonyX_Chile_2024 passed  [ wd:~] {1,1} for path wd:P175
+:SymphonyX_Chile_2024 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-40";"<http://example.org/Alcest_2014>";"<http://example.org/ConcertShape>";"Valid";":Alcest_2014 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Alcest_2014 passed  Literal {1,1} for path :label
+:Alcest_2014 passed  [ wd:~] {1,1} for path wd:P175
+:Alcest_2014 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-41";"<http://www.wikidata.org/entity/Q648940>";"<http://example.org/BandShape>";"Valid";"wd:Q648940 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q648940 passed  [ wd:~] + for path wd:Q188451
+wd:Q648940 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q648940 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-42";"<http://www.wikidata.org/entity/Q3282829>";"<http://example.org/AlbumShape>";"Valid";"wd:Q3282829 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q3282829 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q3282829 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-43";"<http://example.org/Alcest_2023>";"<http://example.org/ConcertShape>";"Valid";":Alcest_2023 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Alcest_2023 passed  Literal {1,1} for path :label
+:Alcest_2023 passed  [ wd:~] {1,1} for path wd:P175
+:Alcest_2023 passed  [  wd:~ :~] * for path wd:P276
+:Alcest_2023 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Alcest_2023 passed  Literal {1,1} for path :label
+:Alcest_2023 passed  [ wd:~] {1,1} for path wd:P175
+:Alcest_2023 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-44";"<http://www.wikidata.org/entity/Q219425>";"<http://example.org/AlbumShape>";"Valid";"wd:Q219425 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q219425 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q219425 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-45";"<http://www.wikidata.org/entity/Q1348551>";"<http://example.org/AlbumShape>";"Valid";"wd:Q1348551 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q1348551 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q1348551 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-46";"<http://example.org/Brutal_Assault_2017>";"<http://example.org/ConcertShape>";"Valid";":Brutal_Assault_2017 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Brutal_Assault_2017 passed  Literal {1,1} for path :label
+:Brutal_Assault_2017 passed  [ wd:~] {1,1} for path wd:P175
+:Brutal_Assault_2017 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-47";"<http://www.wikidata.org/entity/Q937894>";"<http://example.org/AlbumShape>";"Valid";"wd:Q937894 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q937894 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q937894 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-48";"<http://example.org/Opeth_2023>";"<http://example.org/ConcertShape>";"Valid";":Opeth_2023 passed  [ wd:Q182832] {1,1} for path wd:P31
+:Opeth_2023 passed  Literal {1,1} for path :label
+:Opeth_2023 passed  [ wd:~] {1,1} for path wd:P175
+:Opeth_2023 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-49";"<http://www.wikidata.org/entity/Q15935>";"<http://example.org/BandShape>";"Valid";"wd:Q15935 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q15935 passed  [ wd:~] + for path wd:Q188451
+wd:Q15935 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q15935 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-50";"<http://example.org/DT_Chile_2008>";"<http://example.org/ConcertShape>";"Valid";":DT_Chile_2008 passed  [ wd:Q182832] {1,1} for path wd:P31
+:DT_Chile_2008 passed  Literal {1,1} for path :label
+:DT_Chile_2008 passed  [ wd:~] {1,1} for path wd:P175
+:DT_Chile_2008 passed  [  wd:~ :~] * for path wd:P276
+:DT_Chile_2008 passed  [ wd:Q182832] {1,1} for path wd:P31
+:DT_Chile_2008 passed  Literal {1,1} for path :label
+:DT_Chile_2008 passed  [ wd:~] {1,1} for path wd:P175
+:DT_Chile_2008 passed  [  wd:~ :~] * for path wd:P276";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-51";"<http://example.org/From_Below>";"<http://example.org/AlbumShape>";"Valid";":From_Below passed  [ wd:~] {1,1} for path wd:Q3972943
+:From_Below passed  [  wd:~ :~] + for path wd:Q7366
+:From_Below passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-52";"<http://www.wikidata.org/entity/Q131231>";"<http://example.org/BandShape>";"Valid";"wd:Q131231 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q131231 passed  [ wd:~] + for path wd:Q188451
+wd:Q131231 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q131231 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-53";"<http://www.wikidata.org/entity/Q18609>";"<http://example.org/AlbumShape>";"Valid";"wd:Q18609 passed  [ wd:~] {1,1} for path wd:Q3972943
+wd:Q18609 passed  [  wd:~ :~] + for path wd:Q7366
+wd:Q18609 passed  [ wd:~] ? for path wd:Q18127";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-54";"<http://www.wikidata.org/entity/Q18557>";"<http://example.org/BandShape>";"Valid";"wd:Q18557 passed  [ wd:~] {1,1} for path wd:Q3373417
+wd:Q18557 passed  [ wd:~] + for path wd:Q188451
+wd:Q18557 passed  [  wd:~ :~] * for path wd:Q482994
+wd:Q18557 passed  [  wd:~ :~] * for path wd:Q52630241";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"
+"0-55";"<http://example.org/Mauricio_Beltran>";"<http://example.org/UserShape>";"Valid";"wd:Q1709010 matches with stem wd:
+wd:Q7857598 matches with stem wd:
+wd:Q1452121 matches with stem wd:
+wd:Q162586 matches with stem wd:
+wd:Q648940 matches with stem wd:
+wd:Q158895 matches with stem wd:
+wd:Q158641 matches with stem wd:";"Fri Mar 13 2026 21:41:18 GMT-0300 (hora de verano de Chile)"

@@ -1,0 +1,2779 @@
+@prefix :       <http://example.org/> .
+@prefix wd:     <http://www.wikidata.org/entity/> .
+@prefix p:      <https://www.wikidata.org/wiki/Property:> .
+
+:Mauricio_Beltran p:P106 wd:Q1709010;
+    			  p:P1775 wd:Q162586, 
+						  wd:Q648940, 
+						  wd:Q158641, 
+						  wd:Q158895, 
+						  wd:Q7857598, 
+						  wd:Q1452121.
+
+:Rangi_Becerra p:P1775 wd:Q18557, #musical group - Opeth
+    					  wd:Q1517060, #Alcest
+			    		  wd:Q485039, #Deftones
+    					  wd:Q239074, #Sepultura
+						  wd:Q2411265, #The Fall of Every Season
+						  wd:Q131231, #slayer
+						  wd:Q485231. #Cannibal Corpse
+
+:Felipe_Troncoso p:P1775 wd:Q261, #Linkin Park
+						   wd:Q485039, #Deftones
+						   wd:Q45165, #SOAD
+						   wd:Q10708, #RHCP
+						   wd:Q27902902, #Amelie Lens
+						   wd:Q22668666, #Charlotte de Witte
+						   wd:Q15935. #KW
+
+#########################################################################
+
+wd:Q18557 wd:Q3373417 wd:Q34; #country of origin - Sweden
+	      wd:Q188451 wd:Q542971; #music genre - progressive death metal
+          wd:Q482994 wd:Q18609, #album - Orchid
+           		     wd:Q18611, #Morningrise
+           			 wd:Q18613, #My Arms Your Hearse
+           			 wd:Q18615, #Still Life
+           			 wd:Q18616, #Blackwater Park
+           			 wd:Q18618, #Deliverance
+           			 wd:Q18620, #Damnation
+           			 wd:Q18621, #Ghost Reveries
+           			 wd:Q18624, #Watershed
+           			 wd:Q18626, #Heritage
+           			 wd:Q16262889, #Pale_Communion
+           		  	 wd:Q26210710, #Sorceress
+           			 wd:Q64017956, #In Cauda Venenum
+           			 wd:Q128360604; #The Last Will and Testament
+          wd:Q52630241 wd:Q450285, #Mikael Åkerfeldt
+           			   wd:Q2618412, #Martín Méndez
+           			   wd:Q966593, #Fredrik Åkesson
+           			   wd:Q3808540, #Joakim Svalberg
+           			   wd:Q33524365. #Waltteri Väyrynen
+
+wd:Q18609 wd:Q3972943 wd:Q2068; #release - 1995
+    	  wd:Q7366 :In_Mist_She_Was_Standing, #song
+ 		 		   :Under_the_Weeping_Moon,
+ 		 		   :Silhouette,
+ 		 		   :Forest_of_October,
+ 		 		   :The_Twilight_Is_My_Robe,
+ 		 		   :Requiem,
+ 		 		   :The_Apostle_in_Triumph.
+
+wd:Q18611 wd:Q3972943 wd:Q2070; #1996
+          wd:Q7366 :Advent,
+              	   :The_Night_and_the_Silent_Water,
+              	   :Nectar,
+              	   :Black_Rose_Immortal,
+              	   :To_Bid_You_Farewell.
+             
+wd:Q18613 wd:Q3972943 wd:Q2089; #1998
+		  wd:Q7366 :Prologue,
+    	   		   :April_Ethereal,
+    	   		   :When,
+    	   		   :Madrigal,
+    	   		   :The_Amen_Corner,
+    	   		   :Demon_of_the_Fall,
+    	   		   :Credence,
+    	   		   :Karma,
+    	   		   :Epilogue.
+
+wd:Q18615 wd:Q3972943 wd:Q2091; #1999
+		  wd:Q7366 :The_Moor,
+    	   		   :Godhead_s_Lament,
+   	 	   		   :Benighted,
+    	   		   :Moonlapse_Vertigo,
+    	   		   :Face_of_Melinda,
+    	   		   :Serenity_Painted_Death,
+    	   		   :White_Cluster.
+
+wd:Q18616 wd:Q3972943 wd:Q1988; #2001
+		  wd:Q7366 :The_Leper_Affinity,
+    	   		   :Bleak,
+    	   		   :Harvest,
+    	   		   :The_Drapery_Falls,
+    	   		   :Dirge_for_November,
+    	   		   :The_Funeral_Portrait,
+    	   		   :Patterns_in_the_Ivy,
+   	       		   :Blackwater_Park.
+
+wd:Q18618 wd:Q3972943 wd:Q1987; #2002
+          wd:Q7366 :Wreath,
+           		   :Deliverance,
+           		   :A_Fair_Judgement,
+           		   :For_Absent_Friends,
+           		   :Master_s_Apprentices,
+           		   :By_the_Pain_I_See_in_Others.
+
+wd:Q18620 wd:Q3972943 wd:Q1986; #2003
+          wd:Q7366 :Windowpane,
+           		   :In_My_Time_of_Need,
+           		   :Death_Whispered_a_Lullaby,
+           		   :Closure,
+           		   :Hope_Leaves,
+           		   :To_Rid_the_Disease,
+           		   :Ending_Credits,
+           		   :Weakness.
+
+wd:Q18621 wd:Q3972943 wd:Q2019; #2005
+          wd:Q7366 :Ghost_of_Perdition,
+           		   :The_Baying_of_the_Hounds,
+           		   :Beneath_the_Mire,
+           		   :Atonement,
+           		   :Reverie_Harlequin_Forest,
+           		   :Hours_of_Wealth,
+           		   :The_Grand_Conjuration,
+           		   :Isolation_Years.
+
+wd:Q18624 wd:Q3972943 wd:Q2004; #2008
+          wd:Q7366 :Coil,
+           		   :Heir_Apparent,
+           		   :The_Lotus_Eater,
+           		   :Burden,
+           		   :Porcelain_Heart,
+           		   :Hessian_Peel,
+           		   :Hex_Omega.
+          
+wd:Q18626 wd:Q3972943 wd:Q1994; #2011
+          wd:Q7366 :Heritage,
+           		   :The_Devil_s_Orchard,
+           		   :I_Feel_the_Dark,
+           		   :Slither,
+           		   :Nepenthe,
+           		   :Häxprocess,
+           		   :Famine,
+           		   :The_Lines_in_My_Hand,
+           		   :Folklore,
+           		   :Marrow_of_the_Earth.
+          
+wd:Q16262889 wd:Q3972943 wd:Q1999; #2014
+             wd:Q7366 :Eternal_Rains_Will_Come,
+              		  :Cusp_of_Eternity,
+              		  :Moon_Above_Sun_Below,
+              		  :Elysian_Woes,
+              		  :Goblin,
+              		  :River,
+              		  :Voice_of_Treason,
+              		  :Faith_in_Others.
+             
+wd:Q26210710 wd:Q3972943 wd:Q25245; #2016
+             wd:Q7366 :Persephone,
+              		  :Sorceress,
+              		  :The_Wilde_Flowers,
+              		  :Will_o_the_Wisp,
+              		  :Chrysalis,
+              		  :Sorceress_2,
+              		  :The_Seventh_Sojourn,
+              		  :Strange_Brew,
+              		  :A_Fleeting_Glance,
+              		  :Era,
+              		  :Persephone_Slight_Return.
+             
+wd:Q64017956 wd:Q3972943 wd:Q25274; #2019
+			 wd:Q7366 :Livets_trädgård,
+              		  :Svekets_prins,
+              		  :Hjärtat_vet_vad_handen_gör,
+              		  :De_närmast_sörjande,
+              		  :Minnets_yta,
+              		  :Charlatan,
+              		  :Ingen_sanning_är_allas,
+               		  :Banemannen,
+              		  :Kontinuerlig_drift,
+              		  :Allting_tar_slut,
+			  		  :Garden_of_Earthly_Delights,
+              		  :Dignity,
+             		  :Heart_in_Hand,
+             		  :Next_of_Kin,
+              		  :Lovelorn_Crime,
+              		  :Charlatan,
+              		  :Universal_Truth,
+              		  :The_Garroter,
+              		  :Continuum,
+              		  :All_Things_Will_Pass.
+
+wd:Q128360604 wd:Q3972943 wd:Q49619; #2024
+              wd:Q7366 :s1,
+               		   :s2,
+               		   :s3,
+               		   :s4,
+               		   :s5,
+               		   :s6,
+               		   :s7,
+              		   :A_Story_Never_Told.
+
+wd:Q450285 wd:Q34379 wd:Q6607, #musical instrument - guitar
+           			 wd:Q17172850; #voice
+           wd:Q14819852 wd:Q2478. #birth - 1974
+wd:Q2618412 wd:Q34379 wd:Q46185; #bass guitar
+			wd:Q14819852 wd:Q2483. #1978
+wd:Q966593 wd:Q34379 wd:Q6607,
+           			 wd:Q17172850;
+		   wd:Q14819852 wd:Q2476. #1972
+wd:Q3808540 wd:Q34379 wd:Q1343007, #electronic keyboard
+                      wd:Q5994, #piano
+                	  wd:Q17172850;
+			wd:Q14819852 wd:Q2485. #1969
+wd:Q33524365 wd:Q34379 wd:Q128309; #drum kit
+			 wd:Q14819852 wd:Q2067. #1994
+
+##########################################################################
+
+wd:Q1517060 wd:Q3373417 wd:Q142; #France
+             wd:Q188451 wd:Q1878514; #post-black metal
+             wd:Q482994 wd:Q3282829, #Souvenirs d'un autre monde
+                        wd:Q4025342, #Écailles de lune
+                        wd:Q3830867, #Les voyages de l'âme
+                        wd:Q15637597, #Shelter
+                        wd:Q28089410, #Kodama
+                        wd:Q72116154, #Spiritual Instinct
+                        wd:Q127038846; #Les chants de l'aurore
+             wd:Q52630241 wd:Q3874282, #Neige
+                          wd:Q39019026. #Winterhalter
+
+wd:Q3282829 wd:Q3972943 wd:Q2024; #2007
+            wd:Q7366 :Printemps_émeraude,
+                     :Souvenirs_d_un_autre_monde,
+                     :Les_iris,
+                     :Ciel_errant,
+                     :Sur_l_autre_rive_je_t_attendrai,
+                     :Tir_nan_og.
+
+wd:Q4025342 wd:Q3972943 wd:Q1995; #2010
+            wd:Q7366 :Écailles_de_lune_Part_1,
+                     :Écailles_de_lune_Part_2,
+                     :Percées_de_lumière,
+                     :Abysses,
+                     :Solar_Song,
+                     :Sur_l_océan_couleur_de_fer.
+
+wd:Q3830867 wd:Q3972943 wd:Q1990; #2012
+            wd:Q7366 :Autre_temps,
+                     :Là_où_naissent_les_couleurs_nouvelles,
+                     :Les_voyages_de_l_âme,
+                     :Nous_sommes_l_émeraude,
+                     :Beings_of_Light,
+                     :Faiseurs_de_mondes,
+                     :Havens,
+                     :Summer_s_Glory.
+
+wd:Q15637597 wd:Q3972943 wd:Q1999; #2014
+             wd:Q7366 :Wings,
+                      :Opale,
+                      :La_nuit_marche_avec_moi,
+                      :Voix_sereines,
+                      :L_éveil_des_muses,
+                      :Shelter,
+                      :Away,
+                      :Délivrance.
+
+wd:Q28089410 wd:Q3972943 wd:Q25245; #2016
+             wd:Q7366 :Kodama,
+                      :Éclosion,
+                      :Je_suis_d_ailleurs,
+                      :Untouched,
+                      :Oiseaux_de_proie,
+                      :Onyx.
+
+wd:Q72116154 wd:Q3972943 wd:Q25274; #2019
+             wd:Q7366 :Les_jardins_de_minuit,
+                      :Protection,
+                      :Sapphire,
+                      :L_île_des_morts,
+                      :Le_miroir,
+                      :Spiritual_Instinct.
+
+wd:Q127038846 wd:Q3972943 wd:Q49619; #2024
+             wd:Q7366 :Komorebi,
+                      :L_envol,
+                      :Améthyste,
+                      :Flamme_jumelle,
+                      :Réminiscence,
+                      :L_enfant_de_la_lune,
+    				  :L_adieu.
+
+wd:Q3874282 wd:Q34379 wd:Q6607, #guitar
+           			  wd:Q17172850, #voice
+    				  wd:Q46185, #bass guitar
+    				  wd:Q5994; #piano
+            wd:Q14819852 wd:Q2431. #1985
+wd:Q39019026 wd:Q34379 wd:Q128309; #drum kit
+			 wd:Q14819852 wd:Q2431. #1978
+
+##########################################################################
+
+wd:Q485039 wd:Q3373417 wd:Q30; #country of origin - USA
+	       wd:Q188451 wd:Q20378; #music genre - ALTERNATIVE METAL
+           wd:Q482994 wd:Q1076682, #Adrenaline
+           		     wd:Q1210245, #Around the fur
+           			 wd:Q648910, #White pony
+           			 wd:Q2333474, #Deftones
+           			 wd:Q2282005, #Saturday Night Wrist
+           			 wd:Q117817, #Diamond Eyes
+           			 wd:Q41456, #koi No Yokan
+           			 wd:Q22338892, #Gore
+           			 wd:Q98539246, #ohms
+           			 wd:Q135256676; #Private Music
+           wd:Q52630241 wd:Q291115, #Stephen Carpenter
+           			    wd:Q920892, #Abe Cunningham
+           			    wd:Q507734, #Chino Moreno
+           			    wd:Q2526224. #Frank Delgado	   
+
+wd:Q1076682 wd:Q3972943 wd:Q2068; #1995
+            wd:Q7366 :Bored,
+                     :Minus_Blindfold,
+                     :One_Weak,
+                     :Nosebleed,
+                     :Lifter,
+                     :Root,
+                     :7_Words,
+                     :Birthmark,
+                     :Engine_No_9,
+                     :Fireal,
+                     :Fist.
+
+wd:Q1210245 wd:Q3972943 wd:Q2088; #1997
+            wd:Q7366 :My_Own_Summer_Shove_It,
+                     :Lhabia,
+                     :Mascara,
+                     :Around_the_Fur,
+                     :Rickets,
+                     :Be_Quiet_and_Drive_Far_Away,
+                     :Lotion,
+                     :Dai_the_Flu,
+                     :Headup,
+    				 :MX.
+
+wd:Q648910 wd:Q3972943 wd:Q1985; #2000
+           wd:Q7366 :Feticeira,
+                    :Digital_Bath,
+                    :Elite,
+                    :RX_Queen,
+                    :Street_Carp,
+                    :Teenager,
+                    :Knife_Prty,
+                    :Korea,
+                    :Passenger,
+                    :Change_In_the_House_of_Flies,
+                    :Pink_Maggit.
+
+wd:Q2333474 wd:Q3972943 wd:Q1986; #2003
+            wd:Q7366 :Hexagram,
+                     :Needles_and_Pins,
+                     :Minerva,
+                     :Good_Morning_Beautiful,
+                     :Deathblow,
+                     :When_Girls_Telephone_Boys,
+                     :Battle-Axe,
+                     :Lucky_You,
+                     :Bloody_Cape,
+                     :Anniversary_of_an_Uninteresting_Event,
+                     :Moana.
+
+wd:Q2282005 wd:Q3972943 wd:Q2021; #2006
+            wd:Q7366 :Hole_in_the_Earth,
+                     :Rapture,
+                     :Beware,
+                     :Cherry_Waves,
+                     :Mein,
+                     :U_U_D_D_L_R_L_R_A_B_Select_Start,
+                     :Xerces,
+                     :Rats_Rats_Rats,
+                     :Pink_Cellphone,
+                     :Combat,
+                     :Kimdracula,
+                     :Rivière,
+                     :Drive.
+
+wd:Q117817 wd:Q3972943 wd:Q1995; #2010
+            wd:Q7366 :Diamond_Eyes,
+                     :Royal,
+                     :CMND_CTRL,
+                     :You_ve_Seen_the_Butcher,
+                     :Beauty_School,
+                     :Prince,
+                     :Rocket_Skates,
+                     :Sextape,
+                     :Risk,
+                     :976-EVIL,
+                     :This_Place_Is_Death.
+    
+wd:Q41456 wd:Q3972943 wd:Q1990; #2012
+          wd:Q7366 :Swerve_City,
+                   :Romantic_Dreams,
+                   :Leathers,
+                   :Poltergeist,
+                   :Entombed,
+                   :Graphic_Nature,
+                   :Tempest,
+                   :Gauze,
+                   :Rosemary,
+                   :Goon_Squad,
+                   :What_Happened_to_You.
+
+wd:Q22338892 wd:Q3972943 wd:Q25245; #2016
+             wd:Q7366 :Prayers_Triangles,
+                      :Acid_Hologram,
+                      :Doomed_User,
+                      :Geometric_Headdress,
+                      :Hearts_Wires,
+                      :Pittura_Infamante,
+                      :Xenon,
+                      :L_MIRL,
+                      :Gore,
+                      :Phantom_Bride,
+                      :Rubicon.
+
+wd:Q98539246 wd:Q3972943 wd:Q25337; #2020
+             wd:Q7366 :Genesis,
+                      :Ceremony,
+                      :Urantia,
+                      :Error,
+                      :The_Spell_of_Mathematics,
+                      :Pompeji,
+                      :This_Link_Is_Dead,
+                      :Radiant_City,
+                      :Headless,
+                      :Ohms.
+
+wd:Q135256676 wd:Q3972943 wd:Q49616; #2025
+              wd:Q7366 :my_mind_is_a_mountain,
+                       :locked_club,
+                       :ecdysis,
+                       :infinite_source,
+                       :souvenir,
+                       :cXz,
+                       :i_think_about_you_all_the_time,
+                       :milk_of_the_madonna,
+                       :cut_hands,
+                       :metal_dream,
+                       :departing_the_body.
+
+wd:Q291115 wd:Q34379 wd:Q6607; #guitar
+           wd:Q14819852 wd:Q2474. #1970
+wd:Q920892 wd:Q34379 wd:Q128309; #drum kit
+		   wd:Q14819852 wd:Q2477. #1973
+wd:Q507734 wd:Q34379 wd:Q17172850; #voice
+		   wd:Q14819852 wd:Q2477. #1973
+wd:Q2526224 wd:Q34379 wd:Q1343007; #electronic keyboard
+			wd:Q14819852 wd:Q2474. #1970
+
+##########################################################################
+
+wd:Q239074 wd:Q3373417 wd:Q155; #country of origin - brazil
+	       wd:Q188451 wd:Q483352; #music genre - thrash metal
+           wd:Q482994 wd:Q179194, #album - Morbid Visions
+           		      wd:Q937894, #Schizophrenia
+           		      wd:Q792779, #Beneath the Remains
+           		      wd:Q663821, #Arise
+           		      wd:Q852932, #Chaos A.D
+           		      wd:Q852919, #Roots
+           	  	      wd:Q1070149, #Against
+           		      wd:Q1768180, #Nation
+           		      wd:Q266115, #Roorback
+           		      wd:Q307363, #Dante xxi
+           		      wd:Q277833, #A-lex
+           		      wd:Q1721506, #Kairos
+           		      wd:Q15303608, #The Mediator Between Head and Hands Must Be the Heart
+           		      wd:Q27645800, #Machine Messiah
+           		      wd:Q84550060, #Quadra
+           		      wd:Q108524492; #SepulQuarta
+           wd:Q52630241 wd:Q2088127, #Paulo Xisto
+           			    wd:Q465799, #Andreas Kisser
+           			    wd:Q2340448, #Derrick Green
+           			    wd:Q125022122. #Greyson Nekrutman
+
+wd:Q179194 wd:Q3972943 wd:Q2430; #release - 1986
+    	   wd:Q7366 :Intro, #song
+ 		 		    :Morbid_Visions,
+ 		 		    :Mayhem,
+				    :Troops_of_Doom,
+				    :War,
+				    :Crucifixion,
+				    :Show_Me_the_Wrath,
+				    :Funeral_Rites,
+				    :Empire_of_the_Damned.
+
+wd:Q937894 wd:Q3972943 wd:Q2429; #release - 1987
+    	   wd:Q7366 :Intro, #song
+ 		 		    :From_the_Past_Comes_the_Storms,
+				    :To_the_Wall,
+				    :Escape_to_the_Void,
+				    :Inquisition_Symphony,
+				    :Screams_Behind_the_Shadows,
+				    :Septic_Schizo,
+				    :The_Abyss,
+				    :Rest_in_Pain.
+
+wd:Q792779 wd:Q3972943 wd:Q2425; #release - 1989
+    	   wd:Q7366 :Beneath_the_Remains, #song
+ 		 		    :Inner_Self,
+				    :Stronger_than_Hate,
+				    :Mass_Hypnosis,
+				    :Sarcastic_Existence,
+				    :Slaves_of_Pain,
+				    :Lobotomy,
+				    :Hungry,
+				    :Primitive_Future.
+
+wd:Q663821 wd:Q3972943 wd:Q2062; #release - 1991
+    	   wd:Q7366 :Arise, #song
+ 		 		    :Dead_Embryonic_Cells,
+				    :Desperate_Cry,
+				    :Murder,
+				    :Subtraction,
+				    :Altered_State,
+				    :Under_Siege,
+				    :Meaningless_Movements,
+				    :Infected_Voice.
+
+wd:Q852932 wd:Q3972943 wd:Q2065; #release - 1993
+    	   wd:Q7366 :Refuse_Resist, #song
+ 		 		    :Territory,
+				    :Slave_New_World,
+				    :Amen,
+				    :Kaiowas,
+				    :Propaganda,
+				    :Biotech_Is_Godzilla,
+				    :Nomad,
+				    :We_Who_Are_Not_as_Others,
+				    :Manifest,
+				    :The_Hunt,
+				    :Clenched_Fist.
+
+wd:Q852919 wd:Q3972943 wd:Q2070; #release - 1996
+    	   wd:Q7366 :Roots_Bloody_Roots, #song
+ 		 		    :Attitude,
+				    :Cut_Throat,
+				    :Ratamahatta,
+				    :Breed_Apart,
+				    :Straighthate,
+				    :Spit,
+				    :Lookaway,
+				    :Dusted,
+				    :Born_Stubborn,
+				    :Jasco,
+				    :Itsári,
+				    :Ambush,
+				    :Endangered_Species,
+				    :Dictatorshit,
+				    :Canyon_Jam.
+
+wd:Q1070149 wd:Q3972943 wd:Q2089; #release - 1998
+    	    wd:Q7366 :Against, #song
+ 		 		     :Choke,
+				     :Rumors,
+				     :Old_Earth,
+				     :Floaters_in_Mud,
+				     :Boycott,
+				     :Tribus,
+				     :Common_Bonds,
+				     :F_O_E,
+				     :Reza,
+				     :Unconscious,
+				     :Kamaitachi,
+				     :Drowned_Out,
+				     :Hatred_Aside,
+				     :T3RCERMillennium,
+				     :Gene_Machine_Don_t_Bother_Me,
+				     :Prenúncio.
+
+wd:Q1768180 wd:Q3972943 wd:Q1988; #release - 2001
+    	    wd:Q7366 :Sepulnation, #song
+ 		 		     :Revolt,
+				     :Border_Wars,
+				     :One_Man_Army,
+				     :Vox_Populi,
+				     :The_Ways_of_Faith,
+				     :Uma_Cura,
+				     :Who_Must_Die,
+				     :Saga,
+				     :Tribe_to_a_Nation,
+				     :Politricks,
+				     :Human_Cause,
+				     :Reject,
+				     :Water,
+				     :Valtio,
+				     :Bela_Lugosi_s_Dead,
+				     :Annihilation,
+				     :Rise_Above,
+				     :Revolt,
+				     :Roots_Bloody_Roots.
+
+wd:Q266115 wd:Q3972943 wd:Q1986; #release - 2003
+    	   wd:Q7366 :Come_Back_Alive, #song
+ 		 		    :Godless,
+				    :Apes_of_God,
+				    :More_of_the_Same,
+				    :Urge,
+				    :Corrupted,
+				    :As_It_Is,
+				    :Mind_War,
+				    :Leech,
+				    :The_Rift,
+				    :Bottomed_Out,
+				    :Activist.
+
+wd:Q307363 wd:Q3972943 wd:Q2021; #release - 2006
+    	   wd:Q7366 :Lost, #song
+ 		 		    :Dark_Wood_of_Error,
+				    :Convicted_in_Life,
+				    :City_of_Dis,
+				    :False,
+				    :Fighting_On,
+				    :Limbo,
+				    :Ostia,
+				    :Buried_Words,
+				    :Nuclear_Seven,
+				    :Repeating_the_Horror,
+				    :Eunoé,
+				    :Crown_and_Miter,
+				    :Primium_Mobile,
+				    :Still_Flame.
+
+wd:Q277833 wd:Q3972943 wd:Q1996; #release - 2009
+    	   wd:Q7366 :A_Lex_I, #song
+ 		 		    :Moloko_Mesto,
+				    :Filthy_Rot,
+				    :We_ve_Lost_You,
+				    :What_I_Do,
+				    :A_Lex_II,
+				    :The_Treatment,
+				    :Metamorphosis,
+				    :Sadistic_Values,
+				    :Forceful_Behavior,
+				    :Conform,
+				    :A_Lex_III,
+				    :The_Experiment,
+				    :Strike,
+				    :Enough_Said,
+				    :Ludwig_Van,
+				    :A_Lex_IV,
+				    :Paradox.
+
+wd:Q1721506 wd:Q3972943 wd:Q1994; #release - 2011
+    	    wd:Q7366 :Spectrum, #song
+ 		 		     :Kairos,
+				     :Relentless,
+				     :2011,
+				     :Just_One_Fix,
+				     :Dialog,
+				     :Mask,
+				     :1433,
+				     :Seethe,
+				     :Born_Strong,
+				     :Embrace_the_Storm,
+				     :5772,
+				     :No_One_Will_Stand,
+				     :Structure_Violence,
+				     :4648_Firestarter.
+
+wd:Q15303608 wd:Q3972943 wd:Q1998; #release - 2013
+    	     wd:Q7366 :Trauma_of_War, #song
+ 		 		      :The_Vatican,
+				      :Impending_Doom,
+				      :Manipulation_of_Tragedy,
+				      :Tsunami,
+				      :The_Bliss_of_Ignorants,
+				      :Grief,
+				      :The_Age_of_the_Atheist,
+				      :Obsessed,
+				      :Da_Lama_ao_Caos.
+
+wd:Q27645800 wd:Q3972943 wd:Q25290; #release - 2017
+    	     wd:Q7366 :Machine_Messiah, #song
+ 		 		      :I_Am_the_Enemy,
+				      :Phantom_Self,
+				      :Alethea,
+				      :Iceberg_Dances,
+				      :Sworn_Oath,
+				      :Resistant_Parasites,
+				      :Silent_Violence,
+				      :Vandals_Nest,
+				      :Cyber_God.
+
+wd:Q84550060 wd:Q3972943 wd:Q25337; #release - 2020
+    	     wd:Q7366 :Isolation, #song
+ 		 		      :Means_to_an_End,
+				      :Last_Time,
+				      :Capital_Enslavement,
+				      :Ali,
+				      :Raging_Void,
+				      :Guardians_of_Earth,
+				      :The_Pentagram,
+				      :Autem,
+				      :Quadra,
+				      :Agony_of_Defeat,
+				      :Fear_Pain_Chaos_Suffering.
+
+wd:Q108524492 wd:Q3972943 wd:Q49628; #release - 2021
+    	      wd:Q7366 :Territory, #song
+ 		 		       :Cut_Throat,
+				       :Sepulnation,
+				       :Inner_Self,
+				       :Hatred_Aside,
+				       :Mask,
+				       :Fear_Pain_Chaos_Suffering,
+				       :Vandals_Nest,
+				       :Slave_New_World,
+				       :Ratamahatta,
+				       :Apes_of_God,
+				       :Phantom_Self,
+				       :Slaves_of_Pain,
+				       :Kaiowas,
+				       :Orgasmatron.
+
+wd:Q2088127 wd:Q34379 wd:Q46185; #bass guitar
+            wd:Q14819852 wd:Q2485. #1969
+wd:Q465799 wd:Q34379 wd:Q17172850, #voice
+    				 wd:Q6607; #guitar
+		   wd:Q14819852 wd:Q2644. #1968
+wd:Q2340448 wd:Q34379 wd:Q17172850; #voice
+		    wd:Q14819852 wd:Q2475. #1971
+wd:Q125022122 wd:Q34379 wd:Q128309; #drum kit
+			  wd:Q14819852 wd:Q1987. #2002
+
+##########################################################################
+
+wd:Q2411265 wd:Q3373417 wd:Q20; #country of origin - norway
+	        wd:Q188451 wd:Q3036886; #music genre - atmospheric doom metal
+            wd:Q482994 :From_Below, #album
+           		       :Amends;
+            wd:Q52630241 :Marius_Strand.
+
+:From_Below wd:Q3972943 wd:Q2024; #release - 2007
+    	    wd:Q7366 :From_Below, #song
+ 		 		     :Sisyphean,
+                     :The_Triumphant_Beast,
+                     :Escape_of_the_Dove,
+                     :Her_Withering_Petals.
+
+:Amends wd:Q3972943 wd:Q1998; #release - 2013
+    	wd:Q7366 :Sole_Passenger, #song
+ 		 		 :The_Mammoth,
+                 :A_Portrayal,
+                 :Aurelia,
+                 :Come_Waves.
+
+:Marius_Strand wd:Q34379 wd:Q17172850; #voice
+               wd:Q14819852 wd:Q2431. #1985
+
+##########################################################################
+
+wd:Q131231 wd:Q3373417 wd:Q30; #country of origin - usa
+	       wd:Q188451 wd:Q483352; #music genre - thrash metal
+           wd:Q482994 wd:Q835753, #album - Show No Mercy
+           		      wd:Q841066, #Hell Awaits
+					  wd:Q474960, #Reign in Blood
+					  wd:Q835764, #South of Heaven
+					  wd:Q584600, #Seasons in the Abyss
+					  wd:Q731875, #Divine Intervention
+					  wd:Q1063571, #Undisputed Attitude
+					  wd:Q135720, #Diabolus in Musica
+					  wd:Q610210, #God Hates Us All
+					  wd:Q527183, #Christ Illusion
+					  wd:Q842470, #World Painted Blood
+					  wd:Q17028491; #Repentless
+           wd:Q52630241 wd:Q297210, #Kerry King
+		  			    wd:Q312292, #Tom Araya
+					    wd:Q202022. #Paul Bostaph
+
+wd:Q835753 wd:Q3972943 wd:Q2434; #release - 1983
+    	   wd:Q7366 :Evil_Has_No_Boundaries, #song
+ 		 		    :The_Antichrist,
+				    :Die_by_the_Sword,
+				    :Fight_till_Death,
+				    :Metal_Storm_Face_the_Slayer,
+				    :Black_Magic,
+				    :Tormentor,
+				    :The_Final_Command,
+				    :Crionics,
+				    :Show_No_Mercy.
+
+wd:Q841066 wd:Q3972943 wd:Q2431; #release - 1985
+    	   wd:Q7366 :Hell_Awaits, #song
+ 		 		    :Kill_Again,
+				    :At_Dawn_They_Sleep,
+				    :Praise_of_Death,
+				    :Necrophiliac,
+				    :Crypts_of_Eternity,
+				    :Hardening_of_the_Arteries.
+
+wd:Q474960 wd:Q3972943 wd:Q2430; #release - 1986
+    	   wd:Q7366 :Angel_of_Death, #song
+ 		 		    :Piece_by_Piece,
+				    :Necrophobic,
+				    :Altar_of_Sacrifice,
+				    :Jesus_Saves,
+				    :Criminally_Insane,
+				    :Reborn,
+				    :Epidemic,
+				    :Postmortem,
+				    :Raining_Blood.
+
+wd:Q835764 wd:Q3972943 wd:Q2426; #release - 1988
+    	   wd:Q7366 :South_of_Heaven, #song
+ 		 		    :Silent_Scream,
+				    :Live_Undead,
+				    :Behind_the_Crooked_Cross,
+				    :Mandatory_Suicide,
+				    :Ghosts_of_War,
+				    :Read_Between_the_Lies,
+				    :Cleanse_the_Soul,
+				    :Dissident_Aggressor,
+				    :Spill_the_Blood.
+
+wd:Q584600 wd:Q3972943 wd:Q2064; #release - 1990
+    	   wd:Q7366 :War_Ensemble, #song
+ 		 		    :Blood_Red,
+				    :Spirit_in_Black,
+				    :Expendable_Youth,
+				    :Dead_Skin_Mask,
+				    :Hallowed_Point,
+				    :Skeletons_of_Society,
+				    :Temptation,
+				    :Born_of_Fire,
+				    :Seasons_in_the_Abyss.
+
+wd:Q731875 wd:Q3972943 wd:Q2067; #release - 1994
+    	   wd:Q7366 :Killing_Fields, #song
+ 		 		    :Sex_Murder_Art,
+				    :Fictional_Reality,
+				    :Dittohead,
+				    :Divine_Intervention,
+				    :Circle_of_Beliefs,
+				    :SS_3,
+				    :Serenity_in_Murder,
+				    :213,
+				    :Mind_Control.
+
+wd:Q1063571 wd:Q3972943 wd:Q2070; #release - 1996
+    	    wd:Q7366 :Disintegration_Free_Money, #song
+ 		 		     :Verbal_Abuse_Leeches,
+				     :Abolish_Government_Superficial_Love,
+				     :Can_t_Stand_You,
+				     :Ddamm,
+				     :Guilty_of_Being_White,
+				     :I_Hate_You,
+				     :Filler_I_Don_t_Want_to_Hear_It,
+				     :Spiritual_Law,
+				     :Sick_Boy,
+				     :Mr_Freeze,
+				     :Violent_Pacification,
+				     :Memories_of_Tomorrow,
+				     :Richard_Hung_Himself,
+				     :I_m_Gonna_Be_Your_God,
+				     :Gemini.
+
+wd:Q135720 wd:Q3972943 wd:Q2089; #release - 1998
+    	   wd:Q7366 :Bitter_Peace, #song
+ 		 		    :Death_s_Head,
+				    :Stain_of_Mind,
+				    :Overt_Enemy,
+				    :Perversions_of_Pain,
+				    :Love_to_Hate,
+				    :Desire,
+				    :In_the_Name_of_God,
+				    :Scrum,
+				    :Screaming_from_the_Sky,
+				    :Point.
+
+wd:Q610210 wd:Q3972943 wd:Q1988; #release - 2001
+    	   wd:Q7366 :Darkness_of_Christ, #song
+ 		 		    :Disciple,
+				    :God_Send_Death,
+				    :New_Faith,
+				    :Cast_Down,
+				    :Threshold,
+				    :Exile,
+				    :Seven_Faces,
+				    :Bloodline,
+				    :Deviance,
+				    :War_Zone,
+				    :Here_Comes_the_Pain,
+				    :Payback.
+
+wd:Q527183 wd:Q3972943 wd:Q2021; #release - 2006
+    	   wd:Q7366 :Flesh_Storm, #song
+ 		 		    :Catalyst,
+				    :Skeleton_Christ,
+				    :Eyes_of_the_Insane,
+				    :Jihad,
+				    :Consfearacy,
+				    :Catatonic,
+				    :Black_Serenade,
+				    :Cult,
+				    :Supremist.
+
+wd:Q842470 wd:Q3972943 wd:Q1996; #release - 2009
+    	   wd:Q7366 :World_Painted_Blood, #song
+ 		 		    :Unit_731,
+				    :Snuff,
+				    :Beauty_Through_Order,
+				    :Hate_Worldwide,
+				    :Public_Display_of_Dismemberment,
+				    :Human_Strain,
+				    :Americon,
+				    :Psychopathy_Red,
+				    :Playing_with_Dolls,
+				    :Not_of_This_God,
+				    :Psychopathy_Red.
+
+wd:Q17028491 wd:Q3972943 wd:Q2002; #release - 2015
+    	     wd:Q7366 :Delusions_of_Saviour, #song
+ 		 		      :Repentless,
+				      :Take_Control,
+				      :Vices,
+				      :Cast_the_First_Stone,
+				      :When_the_Stillness_Comes,
+				      :Chasing_Death,
+				      :Implode,
+				      :Piano_Wire,
+				      :Atrocity_Vendor,
+				      :You_Against_You,
+				      :Pride_in_Prejudice.
+
+wd:Q297210 wd:Q34379 wd:Q6607; #musical instrument - guitar
+           wd:Q14819852 wd:Q2652. #birth - 1964
+wd:Q312292 wd:Q34379 wd:Q46185, #bass guitar
+					 wd:Q17172850; #voice					
+		   wd:Q14819852 wd:Q3696. #1961
+wd:Q202022 wd:Q34379 wd:Q128309; #drum kit
+		   wd:Q14819852 wd:Q2652. #1964
+
+##########################################################################
+
+wd:Q485231 wd:Q3373417 wd:Q30; #country of origin - usa
+	       wd:Q188451 wd:Q483251; #music genre - Death Metal
+           wd:Q482994 wd:Q176666, #album - Eaten Back to Life
+           		      wd:Q852346, #Butchered at Birth
+					  wd:Q848347, #Tomb of the Mutilated
+					  wd:Q916821, #The Bleeding
+					  wd:Q649159, #Vile
+					  wd:Q917107, #Gallery of Suicide
+					  wd:Q804546, #Bloodthirst
+					  wd:Q919165, #Gore Obsessed
+					  wd:Q774195, #The Wretched Spawn
+					  wd:Q732834, #Kill
+					  wd:Q520715, #Evisceration Plague
+					  wd:Q113031, #Torture
+					  wd:Q17487546, #A Skeletal Domain
+					  wd:Q42783764, #Red Before Black
+					  wd:Q105464266, #Violence Unimagined
+					  wd:Q120870240; #Chaos Horrific
+          wd:Q52630241 wd:Q201716, #Alex Webster 
+		  			   wd:Q547571, #Paul Mazurkiewicz
+					   wd:Q302475, #Rob Barrett
+					   wd:Q181274, #George Fisher
+					   wd:Q785552. #Erik Rutan
+
+wd:Q176666 wd:Q3972943 wd:Q2064; #release - 1990
+    	   wd:Q7366 :Shredded_Humans, #song
+ 		 		    :Edible_Autopsy,
+				    :Put_Them_to_Death,
+				    :Mangled,
+				    :Scattered_Remains_Splattered_Brains,
+				    :Born_in_a_Casket,
+				    :Rotting_Head,
+				    :The_Undead_Will_Feast,
+				    :Bloody_Chunks,
+				    :A_Skull_Full_of_Maggots,
+				   :Buried_in_the_Backyard.
+
+wd:Q852346 wd:Q3972943 wd:Q2062; #release - 1991
+    	   wd:Q7366 :Meat_Hook_Sodomy, #song
+ 		 		    :Gutted,
+				    :Living_Dissection,
+				    :Under_the_Rotted_Flesh,
+				    :Covered_with_Sores,
+				    :Vomit_the_Soul,
+				    :Butchered_at_Birth,
+				    :Rancid_Amputation,
+				    :Innards_Decay.
+
+wd:Q848347 wd:Q3972943 wd:Q2060; #release - 1992
+    	   wd:Q7366 :Hammer_Smashed_Face, #song
+ 		 		    :I_Cum_Blood,
+				    :Addicted_to_Vaginal_Skin,
+				    :Split_Wide_Open,
+				    :Necropedophile,
+				    :The_Cryptic_Stench,
+				    :Entrails_Ripped_from_a_Virgin_s_Cunt,
+				    :Post_Mortal_Ejaculation,
+				    :Beyond_the_Cemetery.
+
+wd:Q916821 wd:Q3972943 wd:Q2067; #release - 1994
+    	   wd:Q7366 :Staring_Through_the_Eyes_of_the_Dead, #song
+ 		 		    :Fucked_with_a_Knife,
+				    :Stripped_Raped_and_Strangled,
+				    :Pulverized,
+				    :Return_to_Flesh,
+				    :The_Pick_Axe_Murders,
+				    :She_Was_Asking_for_It,
+				    :The_Bleeding,
+				    :Force_Fed_Broken_Glass,
+				    :An_Experiment_in_Homicide.
+
+wd:Q649159 wd:Q3972943 wd:Q2070; #release - 1996
+    	   wd:Q7366 :Devoured_by_Vermin, #song
+ 		 		    :Mummified_in_Barbed_Wire,
+				    :Perverse_Suffering,
+				    :Disfigured,
+				    :Bloodlands,
+				    :Puncture_Wound_Massacre,
+				    :Relentless_Beating,
+				    :Absolute_Hatred,
+				    :Eaten_from_Inside,
+				    :Orgasm_Through_Torture,
+				    :Monolith.
+
+wd:Q917107 wd:Q3972943 wd:Q2089; #release - 1998
+    	   wd:Q7366 :I_Will_Kill_You, #song
+ 		 		    :Disposal_of_the_Body,
+				    :Sentenced_to_Burn,
+				    :Blood_Drenched_Execution,
+				    :Gallery_of_Suicide,
+				    :Dismembered_and_Molested,
+				    :From_Skin_to_Liquid,
+				    :Unite_the_Dead,
+				    :Stabbed_in_the_Throat,
+				    :Chambers_of_Blood,
+				    :Headless,
+				    :Every_Bone_Broken,
+				    :Centuries_of_Torment,
+				    :Crushing_the_Despised.
+
+wd:Q804546 wd:Q3972943 wd:Q2091; #release - 1999
+    	   wd:Q7366 :Pounded_into_Dust, #song
+ 		 		    :Dead_Human_Collection,
+				    :Unleashing_the_Bloodthirsty,
+				    :The_Spine_Splitter,
+				    :Ecstacy_in_Decay,
+				    :Raped_by_the_Beast,
+				    :Coffinfeeder,
+				    :Hacksaw_Decapitation,
+				    :Blowtorch_Slaughter,
+				    :Sickening_Metamorphosis,
+				    :Condemned_to_Agony.
+
+wd:Q919165 wd:Q3972943 wd:Q1987; #release - 2002
+    	   wd:Q7366 :Savage_Butchery, #song
+ 		 		    :Hatchet_to_the_Head,
+				    :Pit_of_Zombies,
+				    :Dormant_Bodies_Bursting,
+				    :Compelled_to_Lacerate,
+				    :Drowning_in_Viscera,
+				    :Hung_and_Bled,
+				    :Sanded_Faceless,
+				    :Mutation_of_the_Cadaver,
+				    :When_Death_Replaces_Life,
+				    :Grotesque.
+
+wd:Q774195 wd:Q3972943 wd:Q2014; #release - 2004
+    	   wd:Q7366 :Severed_Head_Stoning, #song
+ 		 		    :Psychotic_Precision,
+				    :Decency_Defied,
+				    :Frantic_Disembowelment,
+				    :The_Wretched_Spawn,
+				    :Cyanide_Assassin,
+				    :Festering_in_the_Crypt,
+				    :Nothing_Left_to_Mutilate,
+				    :Blunt_Force_Castration,
+				    :Rotted_Body_Landslide,
+				    :Slain,
+				    :Bent_Backwards_and_Broken,
+				    :They_Deserve_to_Die.
+
+wd:Q732834 wd:Q3972943 wd:Q2021; #release - 2006
+    	   wd:Q7366 :The_Time_to_Kill_Is_Now, #song
+ 		 	    	:Make_Them_Suffer,
+				    :Murder_Worship,
+				    :Necrosadistic_Warning,
+				    :Five_Nails_Through_the_Neck,
+				    :Purification_by_Fire,
+				    :Death_Walking_Terror,
+				    :Barbaric_Bludgeonings,
+				    :The_Discipline_of_Revenge,
+				    :Brain_Removal_Device,
+				    :Maniacal,
+				    :Submerged_in_Boiling_Flesh,
+				    :Infinite_Misery.
+
+wd:Q520715 wd:Q3972943 wd:Q1996; #release - 2009
+    	   wd:Q7366 :Priests_of_Sodom, #song
+ 		 		    :Scalding_Hail,
+				    :To_Decompose,
+				    :A_Cauldron_of_Hate,
+				    :Beheading_and_Burning,
+				    :Evidence_in_the_Furnace,
+				    :Carnivorous_Swarm,
+				    :Evisceration_Plague,
+				    :Shatter_Their_Bones,
+				    :Carrion_Sculpted_Entity,
+				    :Unnatural,
+				    :Skewered_from_Ear_to_Eye.
+
+wd:Q113031 wd:Q3972943 wd:Q1990; #release - 2012
+    	   wd:Q7366 :Demented_ggression, #song
+ 		 		    :Sarcophagic_Frenzy,
+				    :Scourge_of_Iron,
+				    :Encased_in_Concrete,
+				    :As_Deep_as_the_Knife_Will_Go,
+				    :Intestinal_Crank,
+				    :Followed_Home_Then_Killed,
+				    :The_Strangulation_Chair,
+				    :Caged_Contorted,
+				    :Crucifier_Avenged,
+				    :Rabid,
+				    :Torn_Through.
+
+wd:Q17487546 wd:Q3972943 wd:Q1999; #release - 2014
+    	     wd:Q7366 :High_Velocity_Impact_Spatter, #song
+ 		 		      :Sadistic_Embodiment,
+				      :Kill_or_Become,
+				      :A_Skeletal_Domain,
+				      :Headlong_into_Carnage,
+				      :The_Murderer_s_Pact,
+				      :Funeral_Cremation,
+				      :Icepick_Lobotomy,
+				      :Vector_of_Cruelty,
+				      :Bloodstained_Cement,
+				      :Asphyxiate_to_Resuscitate,
+				      :Hollowed_Bodies.
+
+wd:Q42783764 wd:Q3972943 wd:Q25290; #release - 2017
+    	     wd:Q7366 :Only_One_Will_Die, #song
+ 		 	     	  :Red_Before_Black,
+				      :Code_of_the_Slashers,
+				      :Shedding_My_Human_Skin,
+				      :Remaimed,
+				      :Firestorm_Vengeance,
+				      :Heads_Shoveled_Off,
+				      :Corpus_Delicti,
+				      :Scavenger_Consuming_Death,
+				      :In_the_Midst_of_Ruin,
+				      :Destroyed_Without_a_Trace,
+				      :Hideous_Ichor.
+
+wd:Q105464266 wd:Q3972943 wd:Q49628; #release - 2021
+    	      wd:Q7366 :Murderous_Rampage, #song
+ 		 		       :Necrogenic_Resurrection,
+				       :Inhumane_Harvest,
+				       :Condemnation_Contagion,
+				       :Surround_Kill_Devour,
+				       :Ritual_Annihilation,
+				       :Follow_the_Blood,
+				       :Bound_and_Burned,
+				       :Slowly_Sawn,
+				       :Overtorture,
+				       :Cerements_of_the_Flayed.
+
+wd:Q120870240 wd:Q3972943 wd:Q49622; #release - 2023
+    	      wd:Q7366 :Overlords_of_Violence, #song
+ 		 		       :Frenzied_Feeding,
+				       :Summoned_for_Sacrifice,
+				       :Blood_Blind,
+				       :Vengeful_Invasion,
+				       :Chaos_Horrific,
+				       :Fracture_and_Refracture,
+				       :Pitchfork_Impalement,
+				       :Pestilential_Rictus,
+				       :Drain_You_Empty.
+
+wd:Q201716 wd:Q34379 wd:Q46185; #musical instrument - bass guitar
+           wd:Q14819852 wd:Q2485. #birth - 1969
+wd:Q547571 wd:Q34379 wd:Q128309; #drum kit
+           wd:Q14819852 wd:Q2644. #birth - 1968
+wd:Q302475 wd:Q34379 wd:Q6607; #musical instrument - guitar
+           wd:Q14819852 wd:Q2485. #birth - 1969
+wd:Q181274 wd:Q34379 wd:Q17172850; #voice	
+           wd:Q14819852 wd:Q2474. #birth - 1970
+wd:Q785552 wd:Q34379 wd:Q6607; #musical instrument - guitar
+           wd:Q14819852 wd:Q2475. #birth - 1971
+
+##########################################################################
+
+wd:Q261 wd:Q3373417 wd:Q30; #Q3373417 = LinkinPark country of origin - USA
+        wd:Q188451 wd:Q11399; #Q188451 = genre - rock
+        wd:Q482994 wd:Q19855, #Q482994 = album - Q19855 = Minutes to Midnight (like)
+                   wd:Q19858, #Meteora (like)
+                   wd:Q19862, #Hybrid Theory (Like)
+                   wd:Q169476,  #A Thousand Suns
+                   wd:Q1074210, #Living Things
+                   wd:Q18153878, #The Hunting Party
+                   wd:Q27690263; #One More Light
+        wd:Q52630241 wd:Q19198, #Q52630241 = group member - Q19198 = Chester Bennington
+            	     wd:Q19201, #Q19201 = Mike Shinoda
+           	         wd:Q19199, #Q19199 = Brad Delson
+                     wd:Q19205, #Q19205 = Rob Bourdon
+		             wd:Q19200, #Q19200  = Joe Hahn
+                     wd:Q19202. #Q19202 = Dave Farrell
+
+wd:Q19855 wd:Q3972943 wd:Q1986; #Q19855 = Minutes to Midnight Q3972943 = release - Q1986 = 2024
+    wd:Q7366 wd:Q1984805, #Wake
+             wd:Q19983, #GivenUp
+             wd:Q19984, #LeaveOutAlltheRest
+             wd:Q19981, #BleedItOut
+             wd:Q19982, #ShadowoftheDay
+             wd:Q19980, #WhatIveDone
+             wd:Q41555201, #HandsHeldHigh
+             wd:Q1811577, #NoMoreSorrow
+             wd:Q41555269, #ValentinesDay
+             wd:Q80209385, #InBetween
+             wd:Q14623566, #InPieces
+             wd:Q1816848. #TheLittleThingsGiveYouAway
+
+wd:Q19858 wd:Q3972943 wd:Q1986; #Q19858 = Meteora Q3972943 = release - Q3972943 = 2003
+          wd:Q7366 wd:Q131589901, #Foreword
+                   wd:Q131589917, #Don't Stay
+                   wd:Q19976, #Somewhere I Belong
+                   wd:Q19977, # ying from You
+                   wd:Q131589970, #Hit the Floor
+                   wd:Q131589998, #Easier to Run
+                   wd:Q131590041, #Figure.09
+                   wd:Q20004, #Faint
+                   wd:Q131590062, #Breaking the Habit
+                   wd:Q131590080, #From the Inside
+                   wd:Q19973, #Numb
+                   wd:Q131590116. #Session
+
+wd:Q19862 wd:Q3972943 wd:Q1985; #Q19862 = HybridTheory Q3972943 = release - Q1985 = 2000
+          wd:Q7366 wd:Q19998, #Papercut
+                   wd:Q19995, #OneStepCloser
+                   wd:Q41554185, #WithYou
+                   wd:Q3907114, #PointsOfAuthority
+                   wd:Q20003, #IntheEnd
+                   wd:Q20000, #Crawling
+                   wd:Q11956694, #APlaceforMyHead
+                   wd:Q131589567, #Forgotten
+                   wd:Q131589580, #CurefortheItch
+                   wd:Q131589597, #PushingMeAway
+                   wd:Q19993, #Runaway
+                   wd:Q12156246. #ByMyself
+
+# Integrantes de Linkin Park (instrumentos + año de nacimiento)
+
+wd:Q19198 wd:Q14819852 wd:Q2480; # Chester Bennington | Q14819852 = fecha de nacimiento | Q2480 = 1976
+          wd:Q34379 wd:Q6607, # Q34379 = instrumento musical | Q6607 = guitarra
+                    wd:Q17172850, # Q17172850 = voz
+                    wd:Q128309, # Q128309 = batería
+                    wd:Q320002. # Q320002 = sampler
+
+wd:Q19201 wd:Q14819852 wd:Q2481;# Mike Shinoda | Q14819852 = fecha de nacimiento | Q2481 = 1977
+          wd:Q34379 wd:Q46185, #Q34379 = instrumento musical | Q46185 = bajo
+                    wd:Q1645, #Q1645 = órgano
+                    wd:Q6607, #Q6607 = guitarra
+                    wd:Q5994, # Q5994 = piano
+                    wd:Q320002, #Q320002 = sampler
+                    wd:Q16382955, #Q16382955 = sintetizador
+                    wd:Q128309, #Q128309 = batería
+                    wd:Q17172850, #Q17172850 = voz
+                    wd:Q191758. #Q191758 = theremín
+
+wd:Q19199 wd:Q14819852 wd:Q2481; #Brad Delson | Q14819852 = fecha de nacimiento | Q2481 = 1977
+          wd:Q34379 wd:Q6607. #Q34379 = instrumento musical | Q6607 = guitarra
+wd:Q19200 wd:Q14819852 wd:Q2481; #Joe Hahn | Q14819852 = fecha de nacimiento | Q2481 = 1977
+          wd:Q34379 wd:Q52954, #Q34379 = instrumento musical | Q52954 = instrumento de teclado
+                    wd:Q17172850. #Q17172850 = voz
+wd:Q19205 wd:Q14819852 wd:Q2484; #Rob Bourdon | Q14819852 = fecha de nacimiento | Q2484 = 1979
+          wd:Q34379 wd:Q128309. #Q34379 = instrumento musical | Q128309 = batería
+wd:Q19202 wd:Q14819852 wd:Q2481; #Dave Farrell | Q14819852 = fecha de nacimiento | Q2481 = 1977
+          wd:Q34379 wd:Q46185 . #Q34379 = instrumento musical | Q46185 = bajo
+
+#######################################################
+
+wd:Q45165 wd:Q3373417 wd:Q30; #Q3373417 = SYSTEM OF A DOWN country of origin - USA
+          wd:Q188451 wd:Q20378, #Q188451 = genre - alternative metal
+                     wd:Q263734; #Q263734 = nu metal
+    	  wd:Q482994 wd:Q220348, #Q482994 = album - Q220348 = System of a Down
+                     wd:Q218971, #Toxicity
+                     wd:Q332526, #Steal This Album!
+                     wd:Q462427, #Mezmerize
+                     wd:Q318954; #Hypnotize
+          wd:Q52630241 wd:Q486063, #Q52630241 = group member - Q486063 = Serj Tankian
+                       wd:Q486786, #Q486786 = Daron Malakian
+                       wd:Q379400, #Q379400 = Shavo Odadjian
+                       wd:Q491772, #Q491772 = John Dolmayan
+                       wd:Q1751354. #Q1751354 = Ontronik Khachaturian
+
+# albumes que me gustan
+wd:Q218971 wd:Q3972943 wd:Q1988; #Q218971 = Toxicity Q3972943 = release - Q1988 = 2001
+           wd:Q7366 wd:Q12398237, #Q12398237 = PrisonSong
+                    wd:Q6039366, #Q6039366 = Needles
+                    wd:Q107978765, #Q107978765 = DeerDance
+                    wd:Q108374949, #Q108374949 = JetPilot
+                    wd:Q108375066, #Q108375066 = X
+                    wd:Q842880, #ChopSuey
+                    :Bounce,
+                    wd:Q12257910, #Forest
+                    wd:Q9556149, #ATWA
+                    :Science,
+                    wd:Q45340, #Toxicity
+                    :Psycho,
+                    wd:Q2299819, #Aerials
+                    :Arto.
+
+wd:Q462427 wd:Q3972943 wd:Q2019; #Q462427 = Mezmerize Q3972943 = release - Q2019 = 2005
+           wd:Q7366 :SoldierSideIntro,
+                    wd:Q787039, #BYOB
+                    wd:Q12266512, #Revenga
+                    :Cigaro,
+                    wd:Q13400760, #RadioVideo
+                    :ThisCocaineMakesMeFeelLikeImonThisSong,
+                    wd:Q16960437, #ViolentPornography
+                    wd:Q45552, #Question!
+                    :SadStatue,
+                    :OldSchoolHollywood,
+                    :LostinHollywood.
+
+wd:Q318954 wd:Q3972943 wd:Q2019; #Q318954 = Hypnotize Q3972943 = release - Q2019 = 2005
+           wd:Q7366 wd:Q4179429, #Attack
+           :Dreaming, #Dreaming
+           wd:Q2268003, #KillRocknRoll
+           wd:Q45539, #Hypnotize
+           wd:Q41227, #LonelyDay
+           :StealingSociety, #Stealing Society
+           :Tentative, #Tentative
+           :UFig, #UFig
+           wd:Q12259220, #Holy Mountains
+           wd:Q2986207, #VicinityofObscenity
+           :ShesLikeHeroin, #Shes Like Heroin
+           wd:Q109311929. #Soldier Side
+
+# Integrantes de SOAD (instrumentos + año de nacimiento)
+
+wd:Q486063 wd:Q14819852 wd:Q2648; #Serj Tankian | Q14819852 = fecha de nacimiento | Q2648 = 1967
+           wd:Q34379 wd:Q17172850, #Q34379 = instrumento musical | Q17172850 = voz
+                     wd:Q52954, #Q52954 = instrumento de teclado
+                     wd:Q6607. #Q6607 = guitarra
+wd:Q486786 wd:Q14819852 wd:Q2479; #Daron Malakian | Q14819852 = fecha de nacimiento | Q2479 = 1975
+           wd:Q34379 wd:Q6607, #Q34379 = instrumento musical | Q6607 = guitarra
+                     wd:Q17172850. #Q17172850 = voz
+wd:Q379400 wd:Q14819852 wd:Q2478; #Shavo Odadjian | Q14819852 = fecha de nacimiento | Q2478 = 1974
+           wd:Q34379 wd:Q46185. #Q34379 = instrumento musical | Q46185 = bajo
+wd:Q491772 wd:Q14819852 wd:Q2476; #John Dolmayan | Q14819852 = fecha de nacimiento | Q2476 = 1972
+           wd:Q34379 wd:Q128309. #Q34379 = instrumento musical | Q128309 = batería
+
+#######################################################################
+
+wd:Q10708 wd:Q3373417 wd:Q30; #Q3373417 = RED HOT CHILE PEPPERS country of origin - USA
+          wd:Q188451 wd:Q11399, #Q188451 = genre - rock
+                     wd:Q41816, #Q41816 = alternative rock
+                     wd:Q11404; #Q11404 = funk rock
+          wd:Q482994 wd:Q330725, #Q482994 = album - Q330725 = The Red Hot Chili Peppers
+                     wd:Q279093, #Freaky Styley
+                     wd:Q183034, #The Uplift Mofo Party Plan
+                     wd:Q638409, #Mother's Milk
+                     wd:Q329396, #Blood Sugar Sex Magik
+                     wd:Q117225, #One Hot Minute
+                     wd:Q219425, #Californication
+                     wd:Q153475, #By the Way
+                     wd:Q152605, #Stadium Arcadium
+                     wd:Q754416, #I'm with You
+                     wd:Q24021025, #The Getaway
+                     wd:Q110817229, #Unlimited Love
+                     wd:Q113247545; #Return of the Dream Canteen
+    	  wd:Q52630241 wd:Q204751, #Q52630241 = group member - Q204751 = Anthony Kiedis
+                       wd:Q202859, #Q202859 = Flea
+                       wd:Q188980, #Q316912 = John Frusciante
+                       wd:Q269500. #Q269500 = Chad Smith
+
+# albumes que me gustan
+
+wd:Q330725 wd:Q3972943 wd:Q2432; # 330725 = The Red Hot Chili Peppers Q3972943 = release - Q2432 = 1984
+           wd:Q7366 wd:Q2292479, #True Men Don't Kill Coyotes
+                    wd:Q134383234, #Baby Appeal
+                    :BuckleDow,
+                    wd:Q2337537, #GetUpandJump
+                    wd:Q134383238, #Why Don't You Love Me
+                    wd:Q3116089, #Green Heaven
+                    wd:Q134383242, #Mommy Where’s Daddy
+                    :OutinLA,
+                    wd:Q134383247, #Police Helicopter
+                    wd:Q134383249, #YouAlwaysSingtheSame,
+                    wd:Q134383251. #GrandPappyDuPlenty.
+
+wd:Q219425 wd:Q3972943 wd:Q2091; #Q219425 = Californication Q3972943 = release - Q2091 = 1999
+           wd:Q7366 wd:Q2290612, #Around the World
+                    wd:Q2336448, #Paralle lUniverse
+                    wd:Q1764046, #Scar Tissue
+                    wd:Q737257, #Otherside
+                    wd:Q134383404, #GetonTop
+                    wd:Q2087371, #Californication
+                    wd:Q134383407, #Easily
+                    wd:Q7229969, #Porcelain
+                    wd:Q134383410, #EmitRemmus
+                    wd:Q134383411, #I Like Dirt
+                    wd:Q134383413, #This Velvet Glove
+                    wd:Q134383414, #Savior
+                    wd:Q134383415, #PurpleStain
+                    :RightonTime, #Righton Time
+                    wd:Q2292015. #RoadTrippin
+
+wd:Q153475 wd:Q3972943 wd:Q1987; #Q153475 = By the Way Q3972943 = release - Q1987 = 2002
+           wd:Q7366 wd:Q75397, #By the Way (canción) 
+                    wd:Q2292806, #Can't Stop (canción)
+                    wd:Q134383361, #Universally Speaking
+                    wd:Q134383362, #This Is the Place
+                    wd:Q2290711, #Dosed
+                    wd:Q134383366, #Don't Forget Me
+                    wd:Q2291269, #The Zephyr Song
+                    wd:Q134383372, #Midnight
+                    wd:Q134383374, #Throw Away Your Television
+                    wd:Q134383375, #Cabron
+                    wd:Q134383376, #Tear
+                    wd:Q134383378, #On Mercury
+                    wd:Q134383380, #Minor Thing
+                    wd:Q134383382, #Warm Tape
+                    wd:Q134383383, #Venice Queen
+                    wd:Q134383371. #I Could Die for You
+
+wd:Q117225 wd:Q3972943 wd:Q2068; #Q117225 = One Hot Minute Q3972943 = release - Q2068 = 1995
+           wd:Q7366 wd:Q2698087, #Warped
+                    :Aeroplane, #Aeroplane
+                    :DeepKick, #DeepKick
+                    wd:Q544782, #My Friends
+                    wd:Q2637260, #Coffee Shop
+                    :Pea, #Pea
+                    :OneBigMob, #OneBigMob
+                    :Walkabout, #Walkabout
+                    :Tearjerker, #Tearjerker
+                    :OneHotMinute, #OneHotMinute
+                    :FallingintoGrace, #FallingintoGrace
+                    wd:Q2620485, #Q2620485 = ShallowBeThyGame
+                    wd:Q3537405. #Q3537405 = Transcending
+
+wd:Q329396 wd:Q3972943 wd:Q2062; #Q329396 = Blood Sugar Sex Magik Q3972943 = release - Q2062 = 1991
+           wd:Q7366 wd:Q10381710, #Q10381710 = ThePowerofEquality
+                    wd:Q2629162, #If You Have to Ask
+                    wd:Q369076, #Breaking the Girl
+                    :FunkyMonks, #Funky Monks
+                    wd:Q2477412, #Suck My Kiss
+                    wd:Q3147061, #I Could Have Lied
+                    wd:Q3305206, #Mellowship Slinky in B Major
+                    :TheRighteousandtheWicked,
+                    wd:Q523345, #Q523345 = GiveItAway
+                    wd:Q970993, #Q970993 = UndertheBridge
+                    :NakedintheRain, #Naked in the Rain
+                    :ApacheRosePeacock, #Apache Rose Peacock
+                    wd:Q3521159, #The Greeting Song
+                    wd:Q10334100, #My Lovely Man
+                    wd:Q10371993, #SirPsychoSexy
+                    :TheyreRedHot. #Theyre Red Hot
+
+# Integrantes de RHCP (instrumentos + año de nacimiento)
+
+wd:Q204751 wd:Q14819852 wd:Q2466; #Anthony Kiedis | Q14819852 = fecha de nacimiento | Q2466 = 1962
+           wd:Q34379 wd:Q17172850. #Q34379 = instrumento musical | Q17172850 = voz
+wd:Q202859 wd:Q14819852 wd:Q2490; #Flea | Q14819852 = fecha de nacimiento | Q2490 = 1962
+           wd:Q34379 wd:Q46185, #Q34379 = instrumento musical | Q46185 = bajo
+                     wd:Q6607, #Q6607 = guitarra
+                     wd:Q17172850, #Q17172850 = voz
+                	 wd:Q128309, #Q128309 = batería
+                     wd:Q5994, #Q5994 = piano
+                     wd:Q52954, #Q52954 = instrumento de teclado
+                   	 wd:Q78987. #Q78987 = trompeta
+wd:Q188980 wd:Q14819852 wd:Q2474; #John Frusciante | Q14819852 = fecha de nacimiento | Q2474 = 1970
+           wd:Q34379 wd:Q6607, #Q34379 = instrumento musical | Q6607 = guitarra
+                     wd:Q17172850, #Q17172850 = voz
+                     wd:Q52954. #Q52954 = instrumento de teclado
+wd:Q269500 wd:Q14819852 wd:Q2478; #Chad Smith | Q14819852 = fecha de nacimiento | Q2478 = 1974
+           wd:Q34379 wd:Q128309. #Q34379 = instrumento musical | Q128309 = batería
+
+################################################################################
+
+wd:Q27902902 wd:Q3373417 wd:Q31; # 3373417 = Amelie Lens country of origin - Q31 = Belgium
+             wd:Q188451 wd:Q9778, #Q188451 = genre - Q9778 = electronic music
+                        wd:Q170611; #Q1339 = techno
+             wd:Q482994 :Exhale,
+                        :LetItGo,
+                        :Contradiction,
+                        :StayWithMe,
+                        :Nel,
+                        :WeightOfTheLand,
+                        :INVOLVE020,
+                        :Basiel,
+                        :TeachMeRemixes,
+                        :Hypnotized,
+                        :LittleRobot,
+                        :Higher,
+                        :RaversHeart,
+                        :InMyMind,
+                        :FeelIt,
+                        :Radiance,
+                        :YouandMe,
+                        :Breathe,
+                        :UnderneathTheStrobelights;
+             wd:Q52630241 wd:Q27902902. #Q52630241 = group member - Q27902902 = Amelie Lens
+
+:FeelIt wd:Q3972943 wd:Q49622; #release - 2023
+        wd:Q7366 :FeelIt. #Feel It          
+
+:Breathe wd:Q3972943 wd:Q49619; #release - 2024
+         wd:Q7366 :Breathe. #Breathe          
+
+:YouandMe wd:Q3972943 wd:Q49622; #release - 2023
+          wd:Q7366 :YouandMe, #Q7366 = Song
+             	   :Radiance.                	
+
+:Hypnotized wd:Q3972943 wd:Q25274; # elease - 2019
+            wd:Q7366 :Hypnotized, #Hypnotized
+                     :Access, #Access
+                     :HypnotizedJoyhauserRemix. #HypnotizedJoyhauserRemix	
+
+:Higher wd:Q3972943 wd:Q25337; #release - 2020
+        wd:Q7366 :Higher, #Higher
+             	 :LObscurite, #LObscurite
+             	 :HigherFjaakRemix. #HigherFjaakRemix       	
+
+:InMyMind wd:Q3972943 wd:Q49625; #release - 2022
+          wd:Q7366 :InMyMind, #InMyMind
+             	   :FirstLight, #FirstLight
+             	   :Trippin. #Trippin                 	
+
+:UnderneathTheStrobelights wd:Q3972943 wd:Q49619; #release - 2024
+                           wd:Q7366 :UnderneathTheStrobelights. #UnderneathTheStrobelights
+
+# Integrantes de Amelie Lens (instrumentos + año de nacimiento)
+
+wd:Q27902902 wd:Q14819852 wd:Q2064; #Amelie Lens | Q14819852 = fecha de nacimiento | Q2064 = 1990
+             wd:Q34379 wd:Q130857, #Q34379 = instrumento musical | Q130857 = disc jockey
+                       wd:Q183945. #Q183945 = record producer
+
+#################################################################
+
+wd:Q22668666 wd:Q3373417 wd:Q31; #Q3373417 = Charlotte de Witte country of origin - Q31 = Belgium
+             wd:Q188451 wd:Q9778, #Q188451 = genre - Q9778 = electronic music
+                        wd:Q170611; #Q1339 = techno
+			 wd:Q482994  :Weltschmerz,
+					  	 :HeartofMine,
+						 :VoicesoftheAncient,
+						 :YoureMine,
+						 :Selected,
+						 :HighStreet,
+						 :SgadiLiw,
+						 :Brussels,
+						 :Closer,
+						 :TheHealer,
+						 :Formula,
+						 :Apollo,
+						 :Time,
+						 :Pattern,
+						 :Overdrive,
+						 :Roar,
+						 :RPM,
+						 :PowerOfThought,
+						 :Reflection;
+             wd:Q52630241 wd:Q22668666. #Q52630241 = group member - Q22668666 = Charlotte de Witte
+
+:Overdrive wd:Q3972943 wd:Q49622; #release - 2023
+    	   wd:Q7366 :Overdrive, #Overdrive
+           			:HighStreet. #HighStreet
+
+:PowerOfThought wd:Q3972943 wd:Q49622; #release - 2023
+                wd:Q7366 :PowerOfThought,
+                         :Pria,
+                         :Abada.
+
+:Apollo wd:Q3972943  wd:Q49625; #release - 2022
+        wd:Q7366 :MissingChannel, #MissingChannel
+                 :Apollo, #Apollo
+                 :Mercury, #Mercury
+                 :PPC. #PPC
+
+:Formula wd:Q3972943 wd:Q49628; #release - 2021
+         wd:Q7366 :Doppler, #Doppler
+                  :RPM, #RPM
+                  :Formula. #Formula
+
+:Selected wd:Q3972943 wd:Q25274; #release - 2019
+          wd:Q7366 :Selected, #Selected
+                   :Form, #Form
+                   :Time, #Time
+                   :Amar. #Amar
+
+wd:Q22668666 wd:Q14819852 wd:Q2060; #Charlotte de Witte | Q14819852 = fecha de nacimiento | Q2060 = 1992
+             wd:Q34379 wd:Q130857, #Q34379 = instrumento musical | Q130857 = disc jockey
+                       wd:Q183945. #Q183945 = record producer
+
+#########################################################################
+
+wd:Q15935 wd:Q3373417 wd:Q30; #Q3373417 = KANYE WEST country of origin - Q30 = United States
+          wd:Q188451 wd:Q11401, #Q188451 = genre - Q11401 = hip hop music
+                     wd:Q37073, #Q37073 = pop
+                     wd:Q438503; #Q178121 = alternative hip hop
+          wd:Q482994 wd:Q747526, #The College Dropout - 2004
+                     wd:Q1130097, #Late Registration - 2005
+                     wd:Q1129439, #Graduation - 2007
+                     wd:Q271308, #808s & Heartbreak - 2008
+                     wd:Q547624, #My Beautiful Dark Twisted Fantasy - 2010
+                     wd:Q13378144, #Yeezus - 2013
+                     wd:Q21996865, #The Life of Pablo - 2016
+                     wd:Q54632750, #Ye - 2018
+                     wd:Q66829260, #Jesus Is King - 2019
+                     wd:Q85771140, #Donda - 2021
+                     wd:Q110550839; #Donda 2 - 2022
+   		  wd:Q52630241 wd:Q15935. #Q52630241 = group member - Q15935 = Kanye West
+
+wd:Q1129439 wd:Q3972943 wd:Q2024; #Q1129439 = Graduation Q3972943 = release - Q2024 = 2007
+			wd:Q7366 wd:Q2014046, #Good Morning
+					 wd:Q5069963, #Champion
+					 wd:Q2018005, #Stronger
+					 wd:Q55614229, #I Wonder
+				     wd:Q2304699, #Good Life
+					 wd:Q5028985, #Can't Tell Me Nothing
+					 wd:Q131597238, #Barry Bonds
+					 wd:Q60739865, #Drunk and Hot Girls
+					 wd:Q2915228, #Flashing Lights
+					 wd:Q55611232, #Everything I Am
+					 wd:Q131597242, #The Glory
+					 wd:Q2271213, #Homecoming
+					 wd:Q4905223, #Big Brother
+					 wd:Q2014046. #Good Morning
+
+wd:Q271308 wd:Q3972943 wd:Q2004; #Q271308 = 808s & Heartbreak Q3972943 = release - Q2004 = 2008
+           wd:Q7366 wd:Q60739827, #Say You Will
+                    wd:Q7980692, #Welcome to Heartbreak
+                    wd:Q2075331, #Heartless
+                    wd:Q2664332, #Amazing
+					wd:Q1991060, #Love Lockdown
+					wd:Q2425361, #Paranoid
+					wd:Q60740544, #RoboCop
+					wd:Q60744075, #Street Lights
+					:BadNews, #Bad News
+					wd:Q2492348, #See You in My Nightmares
+					wd:Q60746730, #Coldest Winter
+					:PinocchioStory, #Pinocchio Story
+					wd:Q2075331. #Heartless
+
+wd:Q547624 wd:Q3972943 wd:Q1995; #My Beautiful Dark Twisted Fantasy release - 2010
+		   wd:Q7366 wd:Q5223225, #Dark Fantasy
+					wd:Q5586248, #Gorgeous
+					wd:Q2664338, #Power
+					wd:Q654314, #All of the Lights
+					wd:Q2416813, #Monster
+					wd:Q7549034, #So Appalled
+					wd:Q12904006, #Devil in a New Dress
+					wd:Q2664309, #Runaway
+					wd:Q5706786, #Hell of a Life
+					wd:Q4924697, #Blame Game
+					wd:Q3398748, #Lost in the World
+					wd:Q7997441, #Who Will Survive in America
+					wd:Q654314. #All of the Lights
+
+wd:Q13378144 wd:Q3972943 wd:Q1998; #Yeezus release - 2013
+			 wd:Q7366  wd:Q17141348, #On Sight
+					   wd:Q13670837, #Black Skinhead
+					   wd:Q16996225, #I Am a God
+					   wd:Q16933081, #New Slaves
+					   wd:Q16995640, #Hold My Liquor
+					   wd:Q55614158, #I'm In It
+					   wd:Q16823589, #Blood on the Leaves
+					   wd:Q56274224, #Guilt Trip
+					   wd:Q55632845, #Send It Up
+					   wd:Q16244716. #Bound 2
+
+wd:Q54632750 wd:Q3972943 wd:Q25291; #Q54632750 = ye Q3972943 = release - Q25291 = 2018
+			 wd:Q7366 wd:Q55391407, #I Thought About Killing You
+					  wd:Q55064482, #Yikes
+					  wd:Q55603669, #All Mine
+					  wd:Q55391357, #Wouldn't Leave
+					  wd:Q55389062, #No Mistakes
+					  wd:Q55280919, #Ghost Town
+					  wd:Q55637144. #Violent Crimes
+
+#########################################################################
+
+wd:Q162586 wd:Q3373417 wd:Q30;
+           wd:Q188451 wd:Q484344, wd:Q49451;
+    wd:Q482994 wd:Q752237, 
+               wd:Q643906, 
+               wd:Q258671, 
+               wd:Q834957, 
+               wd:Q740475, 
+               wd:Q831548, 
+               wd:Q750321, 
+               wd:Q519249, 
+               wd:Q826828, 
+               wd:Q83343, 
+               wd:Q300400,
+               wd:Q13420662, 
+               wd:Q21450440, 
+               wd:Q58160951, 
+               wd:Q107695417;
+    wd:Q52630241 wd:Q211976, 
+                 wd:Q280734, 
+                 wd:Q296039, 
+                 wd:Q175102, 
+                 wd:Q221468.
+
+# --- Dream Theater ---
+wd:Q752237 wd:Q3972943 wd:Q2425; #When Dream and Day Unite 1989
+           wd:Q18127 wd:Q585643;
+           wd:Q7366 :A_Fortune_In_Lies, 
+					:Status_Seeker, 
+					:Ytse_Jam, 
+					:The_Killing_Hand, 
+					:Light_Fuse_And_Get_Away, 
+					:Afterlife, 
+					:The_Ones_Who_Help_To_Set_The_Sun, 
+					:Only_A_Matter_Of_Time.
+
+wd:Q643906 wd:Q3972943 wd:Q2003; #Images and Words 1992
+    	   wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :Pull_Me_Under, 
+					:Another_Day, 
+					:Take_The_Time, 
+					:Surrounded, 
+					:Metropolis_Pt_1, 
+					:Under_A_Glass_Moon, 
+					:Wait_For_Sleep, 
+					:Learning_To_Live.
+
+wd:Q258671 wd:Q3972943 wd:Q2063; #Awake 1994
+    	   wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :6_00, 
+		   			:Caught_In_A_Web, 
+					:Innocence_Faded, 
+					:Erotomania, 
+					:Voices, 
+					:The_Silent_Man, 
+					:The_Mirror, 
+					:Lie, 
+					:Lifting_Shadows_Off_A_Dream, 
+					:Scarred, 
+					:Space_Dye_Vest.
+
+wd:Q834957 wd:Q3972943 wd:Q2086; #Falling into Infinity 1997
+    	   wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :New_Millennium, 
+		   			:You_Not_Me, 
+					:Peruvian_Skies, 
+					:Hollow_Years, 
+					:Burning_My_Soul, 
+					:Hells_Kitchen, 
+					:Lines_In_The_Sand, 
+					:Take_Away_My_Pain, 
+					:Just_Let_Me_Breathe, 
+					:Anna_Lee, 
+					:Trial_Of_Tears.
+
+wd:Q740475 wd:Q3972943 wd:Q2091; #Metropolis Pt. 2: Scenes from a Memory 1999
+           wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :Regression, 
+		   			:Overture_1928, 
+					:Strange_Deja_Vu, 
+					:Through_My_Words, 
+					:Fatal_Tragedy, 
+					:Beyond_This_Life, 
+					:Through_Her_Eyes, 
+					:Home, 
+					:The_Dance_Of_Eternity, 
+					:One_Last_Time, 
+					:The_Spirit_Carries_On, 
+					:Finally_Free.
+
+wd:Q831548 wd:Q3972943 wd:Q1987; #Six Degrees of Inner Turbulence 2002
+    	   wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :The_Glass_Prison, 
+		   			:Blind_Faith, 
+					:Misunderstood, 
+					:The_Great_Debate, 
+					:Disappear, 
+					:Six_Degrees_Of_Inner_Turbulence.
+
+wd:Q750321 wd:Q3972943 wd:Q1986; #Train of Thought 2003
+    	   wd:Q18127 wd:Q585643;
+    	   wd:Q7366 :As_I_Am, 
+		   			:This_Dying_Soul, 
+					:Endless_Sacrifice, 
+					:Honor_Thy_Father, 
+					:Vacant, 
+					:Stream_Of_Consciousness, 
+					:In_The_Name_Of_God.
+
+wd:Q519249 wd:Q3972943 wd:Q2019; #Octavarium 2005
+    	   wd:Q18127 wd:Q18628;
+    	   wd:Q7366 :The_Root_Of_All_Evil, 
+		   			:The_Answer_Lies_Within, 
+					:These_Walls, 
+					:I_Walk_Beside_You, 
+					:Panic_Attack, 
+					:Never_Enough, 
+					:Sacrificed_Sons, 
+					:Octavarium.
+
+wd:Q826828 wd:Q3972943 wd:Q2024; #Systematic Chaos 2007
+    	   wd:Q18127 wd:Q18628;
+    	   wd:Q7366 :In_The_Presence_Of_Enemies_Pt_1, 
+		   			:Forsaken, :Constant_Motion, 
+					:The_Dark_Eternal_Night, 
+					:Repentance, 
+					:Prophets_Of_War, 
+					:The_Ministry_Of_Lost_Souls, 
+					:In_The_Presence_Of_Enemies_Pt_2.
+
+wd:Q83343 wd:Q3972943 wd:Q1996; #Black Clouds & Silver Linings 2009
+    	  wd:Q18127 wd:Q18628;
+    	  wd:Q7366 :A_Nightmare_To_Remember, 
+		  		   :A_Rite_Of_Passage, 
+				   :Wither, 
+				   :The_Shattered_Fortress, 
+				   :The_Best_Of_Times,
+				   :The_Count_Of_Tuscany.
+
+wd:Q300400 wd:Q3972943 wd:Q1994; #A Dramatic Turn of Events 2011
+    	   wd:Q18127 wd:Q18628;
+    	   wd:Q7366 :On_The_Backs_Of_Angels, 
+		   			:Build_Me_Up_Break_Me_Down, 
+					:Lost_Not_Forgotten, 
+					:This_Is_The_Life, 
+					:Bridges_In_The_Sky, 
+					:Outcry, 
+					:Far_From_Heaven, 
+					:Breaking_All_Illusions, 
+					:Beneath_The_Surface.
+
+wd:Q13420662 wd:Q3972943 wd:Q1998; #Dream Theater 2013
+    		 wd:Q18127 wd:Q18628;
+    		 wd:Q7366 :False_Awakening_Suite, 
+			 		  :The_Enemy_Inside, 
+					  :The_Looking_Glass, 
+					  :Enigma_Machine, 
+					  :The_Bigger_Picture, 
+					  :Behind_The_Veil, 
+					  :Surrender_To_Reason, 
+					  :Along_For_The_Ride, 
+					  :Illumination_Theory.
+
+wd:Q21450440 wd:Q3972943 wd:Q25245; #The Astonishing 2016
+    		 wd:Q18127 wd:Q18628;
+    		 wd:Q7366 :Descent_Of_The_Nomacs, 
+			 		  :Dystopian_Overture, 
+					  :The_Gift_Of_Music, 
+					  :Lord_Nafaryus, 
+					  :A_Savior_In_The_Square, 
+					  :When_Your_Time_Has_Come, 
+					  :Act_Of_Faythe, 
+					  :Three_Days, 
+					  :Brother_Can_You_Hear_Me, 
+					  :A_Life_Left_Behind.
+
+wd:Q58160951 wd:Q3972943 wd:Q25274; #Distance Over Time 2019
+    		 wd:Q18127 wd:Q702361;
+    		 wd:Q7366 :Untethered_Angel, 
+			 		  :Paralyzed, 
+					  :Fall_Into_The_Light, 
+					  :Barstool_Warrior, 
+					  :Room_137, 
+					  :S2N, 
+					  :At_Wits_End, 
+					  :Out_Of_Reach, 
+					  :Pale_Blue_Dot, 
+					  :Viper_King.
+
+wd:Q107695417 wd:Q3972943 wd:Q49628; #A View from the Top of the World 2021
+    		  wd:Q18127 wd:Q702361 ;
+			  wd:Q7366 :The_Alien, 
+			  		   :Answering_The_Call, 
+					   :Invisible_Monster, 
+					   :Sleeping_Giant, 
+					   :Transcending_Time, 
+					   :Awaken_The_Master, 
+					   :A_View_From_The_Top_Of_The_World.
+
+wd:Q211976 wd:Q34379 wd:Q78987; 
+		   wd:Q14819852 wd:Q2444. #John Petrucci  1967
+wd:Q280734 wd:Q34379 wd:Q46185; 
+		   wd:Q14819852 wd:Q2444. #John Myung 1967
+wd:Q296039 wd:Q34379 wd:Q17172850; 
+		   wd:Q14819852 wd:Q2441. #James LaBrie 1963
+wd:Q175102 wd:Q34379 wd:Q52954; 
+		   wd:Q14819852 wd:Q2434. #Jordan Rudess 1956
+wd:Q221468 wd:Q34379 wd:Q128309; 
+		   wd:Q14819852 wd:Q2444. #Mike Portnoy 1967
+
+#########################################################################
+
+wd:Q648940 wd:Q3373417 wd:Q30;
+           wd:Q188451 wd:Q484344, 
+                      wd:Q57143, 
+                      wd:Q725011, 
+                      wd:Q486415;
+           wd:Q482994 wd:Q1066763, 
+                      wd:Q631079, 
+                      wd:Q613145, 
+                      wd:Q524224, 
+                      wd:Q1066754, 
+                      wd:Q917111, 
+                      wd:Q917675, 
+                      wd:Q2635378, 
+                      wd:Q20048896;
+           wd:Q52630241 wd:Q446286, 
+                        wd:Q445297, 
+                        wd:Q722885, 
+                        wd:Q648668, 
+                        wd:Q1063850.
+
+# --- Symphony X ---
+wd:Q1066763 wd:Q3972943 wd:Q2063; #Symphony X  1994
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Into_The_Dementia, 
+					 :The_Raging_Season, 
+					 :Premonition, 
+					 :Masquerade, 
+					 :Absinthe_And_Rue, 
+					 :Shades_Of_Grey, 
+					 :Taunting_The_Notorious, 
+					 :Rapture_Or_Pain, 
+					 :Thorns_Of_Sorrow, 
+					 :A_Lesson_Before_Dying.
+
+wd:Q631079 wd:Q3972943 wd:Q2005; #The Damnation Game" 1995
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :The_Damnation_Game, 
+		   			:Dressed_To_Kill, 
+					:The_Edge_Of_Forever, 
+					:Savage_Curtain, 
+					:Whispers, 
+					:The_Haunting, 
+					:Secrets, 
+					:A_Winters_Dream.
+
+wd:Q613145 wd:Q3972943 wd:Q2086; #The Divine Wings of Tragedy 1997
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Of_Sins_And_Shadows, 
+		   			:Sea_Of_Lies, 
+					:Out_Of_The_Ashes, 
+					:The_Accolade, 
+					:Pharaoh, 
+					:The_Eyes_Of_Medusa, 
+					:The_Witching_Hour, 
+					:The_Divine_Wings_Of_Tragedy, 
+					:Candlelight_Fantasia.
+
+wd:Q524224 wd:Q3972943 wd:Q2089; #Twilight in Olympus 1998
+    	   wd:Q18127 wd:Q158886 ;
+   		   wd:Q7366 :Smoke_And_Mirrors, 
+		   			:Church_Of_The_Machine, 
+					:Sonata, :In_The_Dragons_Den, 
+					:Through_The_Looking_Glass, 
+					:The_Relic, 
+					:Orion_The_Hunter, 
+					:Lady_Of_The_Snow.
+
+wd:Q1066754 wd:Q3972943 wd:Q1985; #V - The New Mythology Suite 2000
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Prelude, 
+					 :Evolution_The_Grand_Design, 
+					 :Fallen, 
+					 :Transcendence, 
+					 :Communion_And_The_Oracle, 
+					 :The_Bird_Serpent_War, 
+					 :On_The_Breath_Of_Poseidon, 
+					 :Egypt, 
+					 :The_Death_Of_Balance, 
+					 :Rediscovery.
+
+wd:Q917111 wd:Q3972943 wd:Q1987; #The Odyssey 2002
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Inferno, 
+		   			:Wicked, 
+					:Incantations_Of_The_Apprentice, 
+					:Accolade_II, 
+					:King_Of_Terrors, 
+					:The_Turning, 
+					:Awakenings, 
+					:The_Odyssey.
+
+wd:Q917675 wd:Q3972943 wd:Q2024; #Paradise Lost 2007
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Oculus_Ex_Inferni, 
+		   			:Set_The_World_On_Fire, 
+					:Domination, 
+					:The_Serpents_Kiss, 
+					:Paradise_Lost, 
+					:Eve_Of_Seduction, 
+					:The_Walls_Of_Babylon, 
+					:Seven, 
+					:The_Sacrifice, 
+					:Revelation.
+
+wd:Q2635378 wd:Q3972943 wd:Q1994; #Iconoclast 2011
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Iconoclast, 
+					 :The_End_Of_Innocence, 
+					 :Dehumanized, 
+					 :Bastards_Of_The_Machine, 
+					 :Heretic, 
+					 :Children_Of_A_Faceless_God, 
+					 :Electric_Messiah, 
+					 :Prometheus, 
+					 :When_All_Is_Lost.
+
+wd:Q20048896 wd:Q3972943 wd:Q2002; #Underworld 2015
+    		 wd:Q18127 wd:Q158886;
+    		 wd:Q7366 :Overture, 
+			 		  :Nevermore, 
+					  :Underworld, 
+					  :Without_You, 
+					  :Kiss_Of_Fire, 
+					  :Charon, 
+					  :To_Hell_And_Back, 
+					  :In_My_Darkest_Hour, 
+					  :Run_With_The_Devil, 
+					  :Swansong, 
+					  :Legend.
+
+wd:Q446286 wd:Q34379 wd:Q78987; 
+		   wd:Q14819852 wd:Q2445. #Michael Romeo 1968
+wd:Q445297 wd:Q34379 wd:Q17172850; 
+		   wd:Q14819852 wd:Q2475. #Russell Allen 1971
+wd:Q722885 wd:Q34379 wd:Q52954; 
+		   wd:Q14819852 wd:Q2446. #Michael Pinnella 1969
+wd:Q648668 wd:Q34379 wd:Q128309; 
+		   wd:Q14819852 wd:Q2476. #jason Rullo 1972
+wd:Q1063850 wd:Q34379 wd:Q46185; 
+			wd:Q14819852 wd:Q2443. #Michael Lepond 1966
+					
+##### Avantasia ####################################################################
+
+wd:Q158641 wd:Q3373417 wd:Q183;
+           wd:Q188451 wd:Q57143, 
+                      wd:Q486415;
+           wd:Q52630241 wd:Q58041, 
+                        wd:Q5442155, 
+                        wd:Q63068, 
+                        wd:Q772173;
+           wd:Q482994 wd:Q948829, 
+                      wd:Q2706850, 
+                      wd:Q1754765, 
+                      wd:Q1949921, 
+                      wd:Q769307, 
+                      wd:Q4142137, 
+                      wd:Q21528270, 
+                      wd:Q52723025, 
+                      wd:Q114841696.
+
+# --- Avantasia ---
+wd:Q948829 wd:Q3972943 wd:Q1988; #The Metal Opera" 2001
+    	   wd:Q18127 wd:Q292128;
+    	   wd:Q7366 :Prelude, 
+		   			:Reach_Out_For_The_Light, 
+					:Serpents_In_Paradise, 
+					:Mure_Mystery, 
+					:The_Tower, 
+					:Asylum, 
+					:Avantasia, 
+					:Inside, 
+					:Sign_Of_The_Cross, 
+					:The_Glory_Of_Rome.
+
+wd:Q2706850 wd:Q3972943 wd:Q1987; #The Metal Opera Part II 2002
+    	    wd:Q18127 wd:Q292128;
+    		wd:Q7366 :The_Seven_Angels, 
+					 :No_Return, 
+					 :The_Looking_Glass, 
+					 :In_Quest_For, 
+					 :The_Final_Sacrifice, 
+					 :Neverland, 
+					 :Anywhere, 
+					 :Chalice_Of_Agony, 
+					 :Memory, 
+					 :Into_The_Unknown.
+
+wd:Q1754765 wd:Q3972943 wd:Q2004; #The Scarecrow 2008
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Twisted_Mind, 
+					 :The_Scarecrow, 
+					 :Shelter_From_The_Rain, 
+					 :Carry_Me_Over, 
+					 :What_Kind_Of_Love, 
+					 :Another_Angel_Down, 
+					 :The_Toy_Master, 
+					 :Devil_In_The_Belfry, 
+					 :Cry_Just_A_Little, 
+					 :I_Dont_Believe_In_Your_Love.
+
+wd:Q1949921 wd:Q3972943 wd:Q1995; #The Wicked Symphony 2010
+   			wd:Q18127 wd:Q158886;
+    		wd:Q7366 :The_Wicked_Symphony, 
+					 :Wastelands, 
+					 :Scales_Of_Justice, 
+					 :Dying_For_An_Angel, 
+					 :Blizzard_On_A_Broken_Mirror, 
+					 :Runaway_Train, 
+					 :Crestfallen, 
+					 :Journey_To_Arcadia, 
+					 :Black_Wings, 
+					 :States_Of_Matter.
+
+wd:Q769307 wd:Q3972943 wd:Q1995; #Angel of Babylon 2010
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Stargazers, 
+		   			:Angel_Of_Babylon, 
+					:Your_Love_Is_Evil, 
+					:Death_Is_Just_A_Feeling, 
+					:Rat_Race, 
+					:Down_In_The_Dark, 
+					:Blowing_Out_The_Flame, 
+					:Symphony_Of_Life, 
+					:Alone_I_Remember.
+
+wd:Q4142137 wd:Q3972943 wd:Q1998; #The Mystery of Time 2013
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Spectres, 
+					 :The_Watchmakers_Dream, 
+					 :Black_Orchid, 
+					 :Where_Clock_Hands_Freeze, 
+					 :Sleepwalking, 
+					 :Savior_In_The_Clockwork, 
+					 :Invoke_The_Machine, 
+					 :Whats_Left_Of_Me, 
+					 :The_Great_Mystery.
+
+wd:Q21528270 wd:Q3972943 wd:Q25245; #Ghostlights 2016
+    		 wd:Q18127 wd:Q158886;
+    		 wd:Q7366 :Mystery_Of_A_Blood_Red_Rose, 
+			 		  :Let_The_Storm_Descend_Upon_You, 
+					  :The_Haunting, 
+					  :Seduction_Of_Decay, 
+					  :Ghostlights, 
+					  :Draconian_Love, 
+					  :Master_Of_The_Pendulum, 
+					  :Isle_Of_Evermore, 
+					  :Babylon_Vampyres.
+
+wd:Q52723025 wd:Q3972943 wd:Q25274; #Moonglow 2019
+    		 wd:Q18127 wd:Q158886;
+    		 wd:Q7366 :Ghost_In_The_Moon, 
+			 		  :Book_Of_Shallows, 
+					  :Moonglow, 
+					  :The_Raven_Child, 
+					  :Starlight, 
+					  :Invincible, 
+					  :Alchemy, 
+					  :The_Piper_At_The_Gates_Of_Dawn, 
+					  :Lavender, 
+					  :Requiem_For_A_Dream.
+
+wd:Q114841696 wd:Q3972943 wd:Q49625; #A Paranormal Evening with the Moonflower Society" 2022
+    		  wd:Q18127 wd:Q158886;
+    		  wd:Q7366 :Welcome_To_The_Shadows, 
+			  		   :The_Wicked_Rule_The_Night, 
+					   :Kill_The_Pain_Away, 
+					   :The_Inmost_Light, 
+					   :Misplaced_Among_The_Angels, 
+					   :I_Tame_The_Storm, 
+					   :Paper_Plane, 
+					   :The_Moonflower_Society, 
+					   :Rhyme_And_Reason, 
+					   :Scars.
+
+wd:Q58041 wd:Q34379 wd:Q17172850; 
+		  wd:Q14819852 wd:Q2482. #Tobias Sammet 1977
+wd:Q5442155 wd:Q34379 wd:Q128309; 
+			wd:Q14819852 wd:Q2478. #Felix Bohnke 1974
+wd:Q63068 wd:Q34379 wd:Q78987; 
+		  wd:Q14819852 wd:Q2474. #Sascha Paeth 1970
+wd:Q772173 wd:Q34379 wd:Q52954; 
+		   wd:Q14819852 wd:Q2474. #Michael Rodenberg 1970
+
+########Helloween#################################################################
+
+wd:Q158895 wd:Q3373417 wd:Q183;
+           wd:Q188451 wd:Q57143, 
+                      wd:Q211723, 
+                      wd:Q38848;
+           wd:Q52630241 wd:Q372797, 
+                        wd:Q456036, 
+                        wd:Q160778, 
+                        wd:Q57700, 
+                        wd:Q310941, 
+                        wd:Q1807438, 
+                        wd:Q978631;
+           wd:Q482994 wd:Q1348551, 
+                      wd:Q539068, 
+                      wd:Q1122912, 
+                      wd:Q1468973, 
+                      wd:Q1536192, 
+                      wd:Q1419272, 
+                      wd:Q920214, 
+                      wd:Q832462, 
+                      wd:Q931680,  
+                      wd:Q1516872, 
+                      wd:Q1468679, 
+                      wd:Q916770, 
+                      wd:Q270035, 
+                      wd:Q555281, 
+                      wd:Q19363430, 
+                      wd:Q105918470.
+
+# --- Helloween ---
+wd:Q1348551 wd:Q3972943 wd:Q2431; #Walls of Jericho 1985
+    		wd:Q18127 wd:Q703603;
+    		wd:Q7366 :Walls_Of_Jericho, 
+					 :Ride_The_Sky, 
+					 :Reptile, 
+					 :Guardians, 
+					 :Phantoms_Of_Death, 
+					 :Metal_Invaders, 
+					 :Gorgar, 
+					 :Heavy_Metal_Is_The_Law, 
+					 :How_Many_Tears.
+
+wd:Q539068 wd:Q3972943 wd:Q2429; #Keeper of the Seven Keys: Part I 1987
+    	   wd:Q18127 wd:Q703603;
+    	   wd:Q7366 :Initiation, 
+		   			:Im_Alive,  
+					:A_Little_Time, 
+					:Twilight_Of_The_Gods, 
+					:A_Tale_That_Wasnt_Right, 
+					:Future_World, 
+					:Halloween, 
+					:Follow_The_Sign.
+
+wd:Q1122912 wd:Q3972943 wd:Q2426; #Keeper of the Seven Keys: Part II 1988
+    		wd:Q18127 wd:Q703603 ;
+   			wd:Q7366 :Invitation, 
+					 :Eagle_Fly_Free, 
+					 :You_Always_Walk_Alone, 
+					 :Rise_And_Fall, 
+					 :Dr_Stein, 
+					 :We_Got_The_Right, 
+					 :Save_Us, 
+					 :March_Of_Time, 
+					 :I_Want_Out, 
+					 :Keeper_Of_The_Seven_Keys.
+
+wd:Q1468973 wd:Q3972943 wd:Q2062; #Pink Bubbles Go Ape 1991
+    		wd:Q18127 wd:Q703603;
+    		wd:Q7366 :Kids_Of_The_Century, 
+					 :Back_On_The_Streets, 
+					 :Number_One, 
+					 :Heavy_Metal_Hamsters, 
+					 :Goin_Home, 
+					 :Someones_Crying, 
+					 :Mankind, 
+					 :Im_Doin_Fine_Crazy_Man, 
+					 :The_Chance, 
+					 :Your_Turn.
+
+wd:Q1536192 wd:Q3972943 wd:Q2080; #Chameleon 1993
+   			wd:Q18127 wd:Q703603;
+    		wd:Q7366 :First_Time, 
+					 :When_The_Sinner, 
+					 :I_Dont_Wanna_Cry_No_More, 
+					 :Crazy_Cat, 
+					 :Giants, 
+					 :Windmill, 
+					 :Revolution_Now, 
+					 :In_The_Night, :Music, 
+					 :Step_Out_Of_Hell, 
+					 :I_Believe.
+
+wd:Q1419272 wd:Q3972943 wd:Q2063; #Master of the Rings 1994
+    		wd:Q18127 wd:Q703603;
+    		wd:Q7366 :Irritation, 
+					 :Sole_Survivor, 
+					 :Where_The_Rain_Grows, 
+					 :Why, 
+					 :Mr_Ego, 
+					 :Perfect_Gentleman, 
+					 :The_Game_Is_On, 
+					 :Secret_Alibi, 
+					 :Take_Me_Home, 
+					 :In_The_Middle_Of_A_Heartbeat, 
+					 :Still_We_Go.
+
+wd:Q920214 wd:Q3972943 wd:Q2070; #The Time of the Oath 1996
+    	   wd:Q18127 wd:Q703603;
+   		   wd:Q7366 :We_Burn, 
+		   			:Steel_Tormentor, 
+					:Wake_Up_The_Mountain, 
+					:Power, 
+					:Forever_And_One, 
+					:Before_The_War, 
+					:A_Million_To_One, 
+					:Anything_My_Mama_Dont_Like, 
+					:Kings_Will_Be_Kings, 
+					:Mission_Motherland, 
+					:If_I_Knew, 
+					:The_Time_Of_The_Oath.
+
+wd:Q832462 wd:Q3972943 wd:Q2089; #Better Than Raw 1998
+    	   wd:Q18127 wd:Q703603;
+    	   wd:Q7366 :Deliberately_Limited_Preliminary_Prelude_Period_In_Z, 
+		   			:Push, 
+					:Falling_Higher, 
+					:Hey_Lord, 
+					:Dont_Spit_On_My_Mind, 
+					:Revelation, 
+					:Time, 
+					:I_Can, 
+					:A_Handful_Of_Pain, 
+					:Lavdate_Dominvm, 
+					:Midnight_Sun.
+
+wd:Q931680 wd:Q3972943 wd:Q1985; #The Dark Ride 2000
+    	   wd:Q18127 wd:Q158886;
+   		   wd:Q7366 :Beyond_The_Portal, 
+		   			:Mr_Torture, 
+					:All_Over_The_Nations, 
+					:Escalation_666, 
+					:Mirror_Mirror, 
+					:If_I_Could_Fly, 
+					:Salvation, 
+					:The_Departed_Sun_Is_Going_Down, 
+					:I_Live_For_Your_Pain, 
+					:We_Damn_The_Night, 
+					:Immortal, 
+					:The_Dark_Ride.
+
+wd:Q1516872 wd:Q3972943 wd:Q1986; #Rabbit Don't Come Easy 2003
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Just_A_Little_Sign, 
+					 :Open_Your_Life, 
+					 :The_Tune, 
+					 :Never_Be_A_Star, 
+					 :Liar, 
+					 :Sun_4_The_World, 
+					 :Dont_Stop_Being_Crazy, 
+					 :Do_You_Feel_Good, 
+					 :Hells_Was_Made_In_Heaven, 
+					 :Back_Against_The_Wall, 
+					 :Listen_To_The_Flies, 
+					 :Nothing_To_Say.
+
+wd:Q1468679 wd:Q3972943 wd:Q2019; #Keeper of the Seven Keys: The Legacy 2005
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :The_King_For_A_1000_Years, 
+					 :The_Invisible_Man, 
+					 :Born_On_Judgment_Day, 
+					 :Pleasure_Drone, 
+					 :Mrs_God, 
+					 :Silent_Rain, 
+					 :Occasion_Avenue, 
+					 :Light_The_Universe, 
+					 :Do_You_Know_What_You_Are_Fighting_For, 
+					 :Come_Alive, 
+					 :The_Shade_In_The_Shadow, 
+					 :Get_It_Up, 
+					 :My_Life_For_One_More_Day.
+
+wd:Q916770 wd:Q3972943 wd:Q2024; #Gambling with the Devil 2007
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Crack_The_Riddle, 
+		            :Kill_It, 
+					:The_Saints, 
+					:As_Long_As_I_Fall, 
+					:Paint_A_New_World, 
+					:Final_Fortune, 
+					:The_Bells_Of_The_7_Hells, 
+					:Fallen_To_Pieces, 
+					:IMe_Mine, 
+					:Dreambound, 
+					:Heaven_Tells_No_Lies.
+
+wd:Q270035 wd:Q3972943 wd:Q1995; #7 Sinners 2010
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Where_The_Sinners_Go, 
+		   			:Are_You_Metal, 
+					:Who_Is_Mr_Madman, 
+					:Raise_The_Noise, 
+					:World_Of_Fantasy, 
+					:Long_Live_The_King, 
+					:The_Smile_Of_The_Sun, 
+					:You_Stupid_Mankind, 
+					:If_A_Mountain_Could_Talk, 
+					:The_Sage_The_Fool_The_Sinner, 
+					:My_Sacrifice, :Not_Yet_Today, 
+					:Far_In_The_Future.
+
+wd:Q555281 wd:Q3972943 wd:Q1998; #Straight Out of Hell 2013
+    	   wd:Q18127 wd:Q158886;
+    	   wd:Q7366 :Nabataea, 
+		   			:World_Of_War, 
+					:Live_Now, 
+					:Far_From_The_Stars, 
+					:Burning_Sun, 
+					:Waiting_For_The_Thunder, 
+					:Hold_Me_In_Your_Arms, 
+					:Wanna_Be_God, 
+					:Straight_Out_Of_Hell, 
+					:Asshole, 
+					:Years, 
+					:Make_Fire_Catch_The_Fly, 
+					:Church_Breaks_Down.
+
+wd:Q19363430 wd:Q3972943 wd:Q2002; #My God-Given Right 2015
+    		 wd:Q18127 wd:Q158886;
+   			 wd:Q7366 :Heroes, 
+			 		  :Battles_Won, 
+					  :My_God_Given_Right, 
+					  :Stay_Crazy, 
+					  :Lost_In_America, 
+					  :Russian_Roue, 
+					  :The_Swing_Of_A_Fallen_World, 
+					  :Like_Everybody_Else, 
+					  :Creatures_In_Heaven, 
+					  :If_God_Loves_Rock_N_Roll, 
+					  :Living_On_The_Edge, 
+					  :Claws, 
+					  :You_Still_Of_War.
+
+wd:Q105918470 wd:Q3972943 wd:Q49628; #Helloween 2021
+    		  wd:Q18127 wd:Q158886 ;
+    		  wd:Q7366 :Out_For_The_Glory, 
+			  		   :Fear_Of_The_Fallen, 
+					   :Best_Time, 
+					   :Mass_Pollution, 
+					   :Angels, 
+					   :Rise_Without_Chains, 
+					   :Indestructible, 
+					   :Robot_King, 
+					   :Cyanide, 
+					   :Down_In_The_Dumps, 
+					   :Orbit, 
+					   :Skyfall.
+
+wd:Q372797 wd:Q34379 wd:Q78987; 
+		   wd:Q14819852 wd:Q2440. #Michael Weikath 1962
+wd:Q456036 wd:Q34379 wd:Q46185; 
+		   wd:Q14819852 wd:Q2442. #Markus Grosskopf 1965
+wd:Q160778 wd:Q34379 wd:Q78987, 
+					 wd:Q17172850; 
+		   wd:Q14819852 wd:Q2441. #Kai Hansen 1963
+wd:Q57700 wd:Q34379 wd:Q17172850; 
+		  wd:Q14819852 wd:Q2438. #Andi Deris 1964
+wd:Q310941 wd:Q34379 wd:Q17172850; 
+		   wd:Q14819852 wd:Q2445. #michael Kiske 1968
+wd:Q1807438 wd:Q34379 wd:Q78987; 
+			wd:Q14819852 wd:Q2482. #Sascha Gerstner 1977
+wd:Q978631 wd:Q34379 wd:Q128309; 
+		   wd:Q14819852 wd:Q2477. #Dani Löble 1973
+
+#######label "Twelve Foot Ninja##################################################################
+
+wd:Q7857598 wd:Q3373417 wd:Q408;
+            wd:Q188451 wd:Q20378, 
+                       wd:Q484344, 
+                       wd:Q2532560;
+            wd:Q482994 wd:Q7514601, 
+                       wd:Q10613525, 
+                       wd:Q115587897.
+
+# --- Twelve Foot Ninja ---
+wd:Q7514601 wd:Q3972943 wd:Q1990; #Silent Machine 2012
+    		wd:Q18127 wd:Q18628;
+    		wd:Q7366 :Coming_For_You, 
+					 :Kingdom, 
+					 :Mother_Sky, 
+					 :Shuriken, 
+					 :Vanguard, 
+					 :Deluge, 
+					 :Manufacture_Of_Consent, 
+					 :Rogue, 
+					 :Design_In_Malice, 
+					 :Myth_Of_Progress, 
+					 :Luna.
+
+wd:Q10613525 wd:Q3972943 wd:Q25245; #Outlier 2016
+    		 wd:Q18127 wd:Q18628;
+    		 wd:Q7366 :One_Hand_Killing, 
+			 		  :Sick, 
+					  :Invincible, 
+					  :Oxygen, 
+					  :Collateral, 
+					  :Post_Mortem, 
+					  :Point_Of_You, 
+					  :Monsoon, 
+					  :Adios, 
+					  :Dig_For_Bones.
+
+wd:Q115587897 wd:Q3972943 wd:Q49628; #Vengeance 2021
+    		  wd:Q18127 wd:Q18628;
+    		  wd:Q7366 :Start_The_Fire, 
+			  		   :Long_Way_Home, 
+					   :Vengeance, 
+					   :Idiot_Box, 
+					   :Over_And_Out, 
+					   :Tangled, 
+					   :Culture_War, 
+					   :Everyday, 
+					   :Shock_To_The_System, 
+					   :Tangent.
+
+##########Freak Kitchen###############################################################
+
+wd:Q1452121 wd:Q3373417 wd:Q34;
+            wd:Q188451 wd:Q484344, 
+                       wd:Q38848, 
+                       wd:Q102932;
+            wd:Q52630241 wd:Q952137;
+            wd:Q482994 wd:Q4781056, 
+                       wd:Q7573499, 
+                       wd:Q10285717, 
+                       wd:Q5245410, 
+                       wd:Q6926475, 
+                       wd:Q7101793, 
+                       wd:Q6484200, 
+                       wd:Q18159973.
+
+wd:Q4781056 wd:Q3972943 wd:Q2063; #Appetizer 1994
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Blind, 
+					 :Appetizer, 
+					 :Lying_Here_Bleeding, 
+					 :Raw, 
+					 :Somersault, 
+					 :Healthy_Man, 
+					 :What_A_Laugh, 
+					 :The_Rights_Of_A_Treacherous_Bastard, 
+					 :A_Tinkerers_Pastime, 
+					 :See_You_In_Pittsburgh, 
+					 :Hollow, 
+					 :The_Bums_Are_Bleeding.
+
+wd:Q7573499 wd:Q3972943 wd:Q2070; #Spanking Hour 1996
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Walls_Of_Stupidity, 
+					 :Haw_Haw_Haw, :Jerk, 
+					 :Taste_My_Fist, 
+					 :Spanking_Hour, 
+					 :Proud_To_Be_Plastic, 
+					 :Lisa, 
+					 :The_Road_To_The_Freak_Show, 
+					 :A_Regular_Guy, :The_Toll.
+
+wd:Q10285717 wd:Q3972943 wd:Q2089; #Freak Kitchen 1998
+    		 wd:Q18127 wd:Q158886;
+    		 wd:Q7366 :Weve_Heard_It_All_Before, 
+			 		  :Vaseline_Bizniz, 
+					  :The_New_Hit_Single, 
+					  :Michael_And_The_Syndrome, 
+					  :Super_Bowl, 
+					  :Mr_Kashchei_And_The_13_Prostitutes, 
+					  :Gun_God, 
+					  :Silence, 
+					  :Zero_Tolerance.
+
+wd:Q5245410 wd:Q3972943 wd:Q1985; #Dead Soul Men 2000
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Silence, 
+					 :Gun_God, 
+					 :The_Toll, 
+					 :Taste_My_Fist, 
+					 :Everything_Is_Nothing, 
+					 :Idiot_Praise, 
+					 :Dead_Soul_Man, 
+					 :I_Dont_Want_To_Be_You.
+
+wd:Q6926475 wd:Q3972943 wd:Q1987; #Move 2002
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Propaganda_Pie, 
+					 :Nobody_Laughs_No_More, 
+					 :Porno_Daddys_Bossa_Nova, 
+					 :Speak_When_Spoken_To, 
+					 :Hateful_Little_Something, 
+					 :Heroin_Breakfast, 
+					 :Seven_Days_In_June, 
+					 :Maggots_Of_Corruption, 
+					 :Give_It_Up, 
+					 :F_F_S.
+
+wd:Q7101793 wd:Q3972943 wd:Q2019; #Organic 2005
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :Speak_When_Spoken_To, 
+					 :The_Math_Of_The_Myth, 
+					 :He_Aint_Heavy_Hes_My_Brother, 
+					 :Breathe, 
+					 :Look_Bored, 
+					 :Chest_Pain_Waltz, 
+					 :Mice_And_Men, 
+					 :Becky, 
+					 :Independent_Way_Of_Life, 
+					 :Heads_And_Tails.
+
+wd:Q6484200 wd:Q3972943 wd:Q1996; #Land of the Freaks 2009
+    		wd:Q18127 wd:Q158886;
+    		wd:Q7366 :God_Save_The_Spleen, 
+					 :Hip_Hip_Hooray, 
+					 :Teargas_Jazz, 
+					 :Sick_Of_The_Single_Girl, 
+					 :Murder_Guy, 
+					 :The_Semiautomatic_Dexterity, 
+					 :Honey_Youre_A_Nazi, 
+					 :The_Only_Way, 
+					 :Do_Not_Disturb, 
+					 :Clean_It_Up.
+
+wd:Q18159973 wd:Q3972943 wd:Q1999; #Cooking with Pagans 2014
+    		 wd:Q18127 wd:Q158886;
+    		 wd:Q7366 :Professional_Help, 
+			 		  :Freak_Of_The_Week, 
+					  :Sloppy, 
+					  :Goody_Goody, 
+					  :Dr_Tess, 
+					  :Hide, 
+					  :Come_Back_To_Comeback, 
+					  :Mathematics_Of_Defeat, 
+					  :Saving_Up_For_An_Anal_Bleach, 
+					  :Private_Property.
+
+wd:Q952137 wd:Q34379 wd:Q78987, 
+					 wd:Q17172850; 
+		   wd:Q14819852 wd:Q2446. #Mattias Eklundh 1969
+
+#########################################################################
+
+# Declaración de asistencia del usuario (Tú -> asistes a -> Conciertos)
+:Mauricio_Beltran p:P1344 :DT_Chile_2008, 
+                          :DT_Chile_2010, 
+                          :DT_Chile_2024, 
+                          :SymphonyX_Chile_2007, 
+                          :SymphonyX_Chile_2019, 
+                          :SymphonyX_Chile_2022, 
+                          :SymphonyX_Chile_2024, 
+                          :SymphonyX_Chile_2026, 
+                          :Avantasia_Chile_2013, 
+                          :Avantasia_Chile_2019, 
+                          :Avantasia_Chile_2023, 
+                          :Avantasia_Chile_2025, 
+                          :Helloween_Chile_2017.
+
+:Rangi_Becerra p:P1344 :Lollapaloza_2025, 
+						:MetalFest_2024, 
+						:Alcest_2023, 
+						:Opeth_2023, 
+						:Slayer_2019, 
+						:Cannibal_Corpse_2018, 
+						:Brutal_Assault_2017, 
+						:Slayer_2017, 
+						:Sepultura_2016, 
+						:Alcest_2014, 
+						:Alcest_Brazil_2014, 
+						:Lollapaloza_2011.
+
+:DT_Chile_2008 wd:P31 wd:Q182832;
+    :label "Concierto de Dream Theater en Movistar Arena (2008)";
+    wd:P175 wd:Q162586;
+    wd:P276 wd:Q3302708, wd:Q2004, wd:Q298. #ubicación, año, país 
+
+:DT_Chile_2010 wd:P31 wd:Q182832;
+    :label "Concierto de Dream Theater en Movistar Arena (2010)";
+    wd:P175 wd:Q162586;
+    wd:P276 wd:Q3302708, wd:Q1995, wd:Q298. #ubicación, año, país 
+
+:DT_Chile_2024 wd:P31 wd:Q182832;
+    :label "Concierto de Dream Theater en Movistar Arena (2024)";
+    wd:P175 wd:Q162586;
+    wd:P276 wd:Q3302708, wd:Q49619, wd:Q298. # ubicación, año, país 
+
+:SymphonyX_Chile_2007 wd:P31 wd:Q182832 ;
+    :label "Concierto de Symphony X en Teatro Caupolicán (2007)";
+    wd:P175 wd:Q648940;
+    wd:P276 wd:Q60368, wd:Q2024, wd:Q298. # ubicación, año, país 
+
+:SymphonyX_Chile_2019 wd:P31 wd:Q182832 ;
+    :label "Concierto de Symphony X en Blondie (2019)";
+    wd:P175 wd:Q648940;
+    wd:P276 :Blondie, wd:Q25274, wd:Q298. # ubicación, año, país 
+
+:SymphonyX_Chile_2022 wd:P31 wd:Q182832;
+    :label "Concierto de Symphony X en Teatro Caupolicán (2022)" ;
+    wd:P175 wd:Q648940;
+    wd:P276 wd:Q60368, wd:Q49625, wd:Q298. #ubicación, año, país 
+
+:SymphonyX_Chile_2024 wd:P31 wd:Q182832;
+    :label "Concierto de Symphony X en Teatro Coliseo (2024)";
+    wd:P175 wd:Q648940;
+    wd:P276 wd:Q65967296, wd:Q49619, wd:Q298. #ubicación, año, país 
+
+:SymphonyX_Chile_2026 wd:P31 wd:Q182832;
+    :label "Concierto de Symphony X en Teatro Teletón (2026)";
+    wd:P175 wd:Q648940;
+    wd:P276 wd:Q6139913, wd:Q49613, wd:Q298. #ubicación, año, país 
+
+:Avantasia_Chile_2013 wd:P31 wd:Q182832;
+    :label "Concierto de Avantasia en Teatro Caupolicán (2013)";
+    wd:P175 wd:Q158641;
+    wd:P276 wd:Q60368, wd:Q1998, wd:Q298. #ubicación, año, país 
+
+:Avantasia_Chile_2019 wd:P31 wd:Q182832;
+    :label "Concierto de Avantasia en Teatro Caupolicán (2019)";
+    wd:P175 wd:Q158641;
+    wd:P276 wd:Q60368, wd:Q25274, wd:Q298. #ubicación, año, país 
+
+:Avantasia_Chile_2023 wd:P31 wd:Q182832;
+    :label "Concierto de Avantasia en Teatro Caupolicán (2023)";
+    wd:P175 wd:Q158641;
+    wd:P276 wd:Q60368, wd:Q49622, wd:Q298. #ubicación, año, país 
+
+:Avantasia_Chile_2025 wd:P31 wd:Q182832;
+    :label "Concierto de Avantasia en Teatro Coliseo (2025)";
+    wd:P175 wd:Q158641; 
+    wd:P276 wd:Q65967296, wd:Q49616, wd:Q298. #ubicación, año, país 
+
+:Helloween_Chile_2017 wd:P31 wd:Q182832;
+    :label "Concierto de Helloween en Movistar Arena (2017)";
+    wd:P175 wd:Q158895;
+    wd:P276 wd:Q3302708, wd:Q25290, wd:Q298. #ubicación, año, país 
+
+:Lollapaloza_2025 wd:P31 wd:Q182832;
+    :label "lollapaloza 2025";
+    wd:P175 wd:Q239074;
+    wd:P276 wd:Q49616, wd:Q298. #año, país 
+
+:MetalFest_2024 wd:P31 wd:Q182832;
+    :label "metalfest 2024";
+    wd:P175 wd:Q239074;
+    wd:P276 wd:Q49619, wd:Q298. #año, país 
+
+:Alcest_2023 wd:P31 wd:Q182832;
+    :label "alcest 2023";
+    wd:P175 wd:Q1517060;
+    wd:P276 wd:Q49622, wd:Q298. #año, país 
+
+:Opeth_2023 wd:P31 wd:Q182832;
+    :label "opeth 2023";
+    wd:P175 wd:Q18557;
+    wd:P276 wd:Q49622, wd:Q298. #año, país 
+
+:Slayer_2019 wd:P31 wd:Q182832;
+    :label "slayer 2019";
+    wd:P175 wd:Q131231;
+    wd:P276 wd:Q25274, wd:Q298. #año, país 
+
+:Cannibal_Corpse_2018 wd:P31 wd:Q182832;
+    :label "cannibal corpse 2018";
+    wd:P175 wd:Q485231;
+    wd:P276 wd:Q25291, wd:Q298. #año, país 
+
+:Brutal_Assault_2017 wd:P31 wd:Q182832;
+    :label "brutal assault 2017";
+    wd:P175 wd:Q18557;
+    wd:P276 wd:Q25290, wd:Q213. #año, país 
+
+:Slayer_2017 wd:P31 wd:Q182832;
+    :label "slayer 2017";
+    wd:P175 wd:Q131231;
+    wd:P276 wd:Q25290, wd:Q298. #año, país 
+
+:Sepultura_2016 wd:P31 wd:Q182832;
+    :label "sepultura 2016";
+    wd:P175 wd:Q239074;
+    wd:P276 wd:Q25245, wd:Q298. #año, país 
+
+:Alcest_2014 wd:P31 wd:Q182832;
+    :label "alcest 2014";
+    wd:P175 wd:Q1517060;
+    wd:P276 wd:Q1999, wd:Q298. #año, país 
+
+:Alcest_Brazil_2014 wd:P31 wd:Q182832;
+    :label "alcest brasil 2014";
+    wd:P175 wd:Q1517060;
+    wd:P276 wd:Q1999, wd:Q155. #año, país 
+
+:Lollapaloza_2011 wd:P31 wd:Q182832;
+    :label "lollapaloza 2011";
+    wd:P175 wd:Q485039;
+    wd:P276 wd:Q1994, wd:Q298. #año, país 

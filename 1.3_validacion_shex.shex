@@ -1,0 +1,86 @@
+PREFIX : <http://example.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX p: <https://www.wikidata.org/wiki/Property:>
+
+#Usuarios (Rangi, Mauricio, Felipe)
+:UserShape {
+    p:P106   [wd:~] * ;           # Ocupación (opcional, debe ser un recurso de Wikidata)
+    p:P1775  [wd:~] + ;           # Intereses musicales (mínimo uno)
+    p:P1344  @:ConcertShape * # Participación en conciertos (referencia a otra Shape)
+}
+
+#Bandas
+:BandShape {
+    wd:Q3373417 [wd:~] ;          # País de origen (obligatorio)
+    wd:Q188451  [wd:~] + ;        # Género musical (al menos uno)
+    wd:Q482994  [wd:~ :~] * ;     # Álbumes (pueden ser WD o locales)
+    wd:Q52630241 [wd:~ :~] * # Integrantes
+}
+
+#Álbumes
+:AlbumShape {
+    wd:Q3972943 [wd:~] ;          # Fecha/Año de lanzamiento
+    wd:Q7366    [wd:~ :~] + ;     # Canciones (debe tener al menos una)
+    wd:Q18127   [wd:~] ?          # Sello discográfico (opcional)
+}
+
+#Integrantes/Músicos
+:MusicianShape {
+    wd:Q34379    [wd:~] + ;       # Instrumentos que toca
+    wd:Q14819852 [wd:~]           # Año de nacimiento
+}
+
+#Conciertos
+:ConcertShape {
+    wd:P31    [wd:Q182832] ;      # Debe ser instancia de "concierto"
+    :label    LITERAL ;        # Nombre del concierto
+    wd:P175   [wd:~] ;            # Artista intérprete
+    wd:P276   [wd:~ :~] * # Ubicación, país y año
+}
+
+######################################################################
+
+# Validar a los usuarios
+:Rangi_Becerra@:UserShape,
+:Mauricio_Beltran@:UserShape,
+:Felipe_Troncoso@:UserShape,
+
+# Validar a las bandas
+wd:Q162586@:BandShape, 
+wd:Q648940@:BandShape,
+wd:Q158641@:BandShape,
+wd:Q158895@:BandShape, 
+wd:Q7857598@:BandShape,
+wd:Q1452121@:BandShape,
+wd:Q18557@:BandShape, 
+wd:Q1517060@:BandShape,
+wd:Q485039@:BandShape,
+wd:Q239074@:BandShape, 
+wd:Q2411265@:BandShape,
+wd:Q131231@:BandShape,
+wd:Q485231@:BandShape,
+wd:Q261@:BandShape, 
+wd:Q45165@:BandShape,
+wd:Q10708@:BandShape,
+wd:Q27902902@:BandShape, 
+wd:Q22668666@:BandShape,
+wd:Q15935@:BandShape,
+
+# Validar algunos álbumes
+wd:Q18609@:AlbumShape,  
+:From_Below@:AlbumShape, 
+wd:Q3282829@:AlbumShape,   
+wd:Q117817@:AlbumShape,   
+wd:Q937894@:AlbumShape,   
+wd:Q219425@:AlbumShape,   
+wd:Q547624@:AlbumShape,   
+wd:Q948829@:AlbumShape,   
+wd:Q1348551@:AlbumShape,   
+
+# Validar algunos conciertos
+:DT_Chile_2008@:ConcertShape,
+:SymphonyX_Chile_2007@:ConcertShape,
+:Avantasia_Chile_2013@:ConcertShape,
+:Cannibal_Corpse_2018@:ConcertShape,
+:Lollapaloza_2011@:ConcertShape,
+:Alcest_2023@:ConcertShape

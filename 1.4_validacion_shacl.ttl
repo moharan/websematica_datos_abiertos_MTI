@@ -1,0 +1,50 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix : <http://example.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix p: <https://www.wikidata.org/wiki/Property:> .
+
+#Usuarios
+:UserShape
+    a sh:NodeShape ;
+    sh:targetNode :Rangi_Becerra, :Mauricio_Beltran, :Felipe_Troncoso;
+    sh:property [
+        sh:path p:P1775; #Intereses musicales
+        sh:minCount 1;
+        sh:nodeKind sh:IRI;
+    ] ;
+    sh:property [
+        sh:path p:P1344; # Participación en conciertos
+        sh:nodeKind sh:IRI;
+    ] .
+
+#Conciertos
+:ConcertShape
+    a sh:NodeShap;
+    sh:targetSubjectsOf wd:P31; 
+    sh:property [
+        sh:path :label;
+        sh:minCount 1;
+        sh:nodeKind sh:Literal;
+    ] ;
+    sh:property [
+        sh:path wd:P175; #Artista
+        sh:minCount 1;
+        sh:nodeKind sh:IRI;
+    ] ;
+    sh:property [
+        sh:path wd:P276; #Ubicaciones/Año
+        sh:minCount 2;
+    ] .
+
+#Bandas
+:BandShape
+    a sh:NodeShape;
+    sh:targetSubjectsOf wd:Q3373417; #país de origen
+    sh:property [
+        sh:path wd:Q188451; #Género
+        sh:minCount 1;
+    ] ;
+    sh:property [
+        sh:path wd:Q482994; #Álbumes
+        sh:minCount 1;
+    ] .

@@ -1,0 +1,195 @@
+#resource: https://www.kaggle.com/datasets/rohiteng/spotify-music-analytics-dataset-20152025?resource=download&select=spotify_2015_2025_85k.csv
+
+@prefix :       <http://example.org/> .
+@prefix wd:     <http://www.wikidata.org/entity/> .
+@prefix p:      <https://www.wikidata.org/wiki/Property:> .
+
+:TRK-BEBD53DA84E1 wd:Q36992648 :Agent_every_0; #id - track name
+				  wd:Q483501 :Noah_Rhodes; #id - artist
+				  wd:Q482994 :Beautiful_instead; #id - album
+				  wd:Q115668563 :2016-04-01; #id - release date
+				  wd:Q188451 wd:Q37073; #id - music genre - pop
+				  :duration_ms 234194; #duration
+				  wd:Q1357284 55; #id - popularity
+				  :danceability 0.15; #id - danceability
+				  :energy 0.74; #id - energy
+				  :key 9; #id - key
+				  wd:Q622324 -32.22; #id - loudness
+				  :mode 0; #id - mode
+				  :instrumentalness 436; #id - instrumentalness
+				  wd:Q189214 73.12; #id - tempo
+				  :stream_count 13000; #id - stream_count
+				  wd:Q6256 wd:Q155; #id - country - brasil
+				  :explicit 0; #explicit
+				  wd:Q18127 wd:Q57027012. #id - record label - universal music
+
+:TRK-6A32496762D7 wd:Q36992648 :Night_respond; #id - track name
+				  wd:Q483501 :Jennifer_Cole; #id - artist
+				  wd:Q482994 :Table; #id - album
+				  wd:Q115668563 :2022-04-15; #id - release date
+				  wd:Q188451 :Metal; #id - music genre
+				  :duration_ms 375706; #duration
+				  wd:Q1357284 45; #id - popularity
+				  :danceability 0.44; #id - danceability
+				  :energy 0.46; #id - energy
+				  :key 0; #id - key
+				  wd:Q622324 -14.02; #id - loudness
+				  :mode 0; #id - mode
+				  :instrumentalness 223; #id - instrumentalness
+				  wd:Q189214 157.74; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q142; #id - country - france
+				  :explicit 1; #explicit
+				  wd:Q18127 wd:Q190585. #id - record label - Island Records
+
+:TRK-47AA7523463E wd:Q36992648 :Future_choice_whatever; #id - track name
+				  wd:Q483501 :Brandon_Davis; #id - artist
+				  wd:Q482994 :Page_southern; #id - album
+				  wd:Q115668563 :2016-02-23; #id - release date
+				  wd:Q188451 wd:Q11399; #id - music genre - Rock
+				  :duration_ms 289191; #duration
+				  wd:Q1357284 55; #id - popularity
+				  :danceability 0.62; #id - danceability
+				  :energy 0.8; #id - energy
+				  :key 8; #id - key
+				  wd:Q622324 -48.26; #id - loudness
+				  :mode 1; #id - mode
+				  :instrumentalness 584; #id - instrumentalness
+				  wd:Q189214 71.03; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q183; #id - country - germany
+				  :explicit 1; #explicit
+				  wd:Q18127 wd:Q1123947. #id - record label - XL Recordings
+
+:TRK-25ADA22E3B06 wd:Q36992648 :Bad_fall_pick_those; #id - track name
+				  wd:Q483501 :Corey_Jones; #id - artist
+				  wd:Q482994 :Spring; #id - album
+				  wd:Q115668563 :2015-10-12; #id - release date
+				  wd:Q188451 wd:Q37073; #id - music genre - Rock
+				  :duration_ms 209484; #duration
+				  wd:Q1357284 51; #id - popularity
+				  :danceability 0.78; #id - danceability
+				  :energy 0.98; #id - energy
+				  :key 1; #id - key
+				  wd:Q622324 -34.47; #id - loudness
+				  :mode 1; #id - mode
+				  :instrumentalness 684; #id - instrumentalness
+				  wd:Q189214 149; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q142; #id - country
+				  :explicit 0; #explicit
+				  wd:Q18127 wd:Q117475714. #id - record label - Warner Music
+
+:TRK-9245F2AD996A wd:Q36992648 :Husband; #id - track name
+				  wd:Q483501 :Mark_Diaz; #id - artist
+				  wd:Q482994 :Great_prove; #id - album
+				  wd:Q115668563 :2022-07-08; #id - release date
+				  wd:Q188451 wd:Q183504; #id - music genre - Indie
+				  :duration_ms 127435; #duration
+				  wd:Q1357284 39; #id - popularity
+				  :danceability 0.74; #id - danceability
+				  :energy 0.18; #id - energy
+				  :key 10; #id - key
+				  wd:Q622324 -17.84; #id - loudness
+				  :mode 0; #id - mode
+				  :instrumentalness 304; #id - instrumentalness
+				  wd:Q189214 155.85; #id - tempo
+				  :stream_count 2000; #id - stream_count
+				  wd:Q6256 wd:Q30; #id - country usa
+				  :explicit 0; #explicit
+				  wd:Q18127 :Independent. #id - record label
+
+:TRK-A249E0859674 wd:Q36992648 :Move_each; #id - track name
+				  wd:Q483501 :Devin_Schaefer; #id - artist
+				  wd:Q482994 :Detail_food; #id - album
+				  wd:Q115668563 :2018-01-01; #id - release date
+				  wd:Q188451 wd:Q37073; #id - music genre - rock
+				  :duration_ms 200615; #duration
+				  wd:Q1357284 36; #id - popularity
+				  :danceability 0.91; #id - danceability
+				  :energy 0.57; #id - energy
+				  :key 3; #id - key
+				  wd:Q622324 -19.61; #id - loudness
+				  :mode 1; #id - mode
+				  :instrumentalness 574; #id - instrumentalness
+				  wd:Q189214 183.86; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q408; #id - country australia
+				  :explicit 0; #explicit
+				  wd:Q18127 wd:Q117475714. #id - record label warner music
+
+:TRK-80176DE44638 wd:Q36992648 :Husband_at; #id - track name
+				  wd:Q483501 :Latoya_Robbins; #id - artist
+				  wd:Q482994 :Reality; #id - album
+				  wd:Q115668563 :2023-05-10; #id - release date
+				  wd:Q188451 wd:Q83440; #id - music genre - country music
+				  :duration_ms 372579; #duration
+				  wd:Q1357284 38; #id - popularity
+				  :danceability 0.89; #id - danceability
+				  :energy 0.41; #id - energy
+				  :key 2; #id - key
+				  wd:Q622324 -27.49; #id - loudness
+				  :mode 0; #id - mode
+				  :instrumentalness 175; #id - instrumentalness
+				  wd:Q189214 165.81; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q145; #id - country united kingdom
+				  :explicit 0; #explicit
+				  wd:Q18127 wd:Q117475714. #id - record label warner music
+
+:TRK-75503F2042FD wd:Q36992648 :Much_section_investment_on_gun; #id - track name
+				  wd:Q483501 :Brenda_Snyder_PhD; #id - artist
+				  wd:Q482994 :Claim; #id - album
+				  wd:Q115668563 :2015-09-18; #id - release date
+				  wd:Q188451 wd:Q9730; #id - music genre - classical music
+				  :duration_ms 290078; #duration
+				  wd:Q1357284 70; #id - popularity
+				  :danceability 0.61; #id - danceability
+				  :energy 0.47; #id - energy
+				  :key 8; #id - key
+				  wd:Q622324 -8.52; #id - loudness
+				  :mode 0; #id - mode
+				  :instrumentalness 201; #id - instrumentalness
+				  wd:Q189214 155.24; #id - tempo
+				  :stream_count 21000; #id - stream_count
+				  wd:Q6256 wd:Q145; #id - country united kingdom
+				  :explicit 0; #explicit
+				  wd:Q18127 wd:Q190585. #id - record label island records
+
+:TRK-5BB824DBF141 wd:Q36992648 :His_other; #id - track name
+				  wd:Q483501 :David_Tran; #id - artist
+				  wd:Q482994 :Response; #id - album
+				  wd:Q115668563 :2019-11-16; #id - release date
+				  wd:Q188451 wd:Q11401; #id - music genre - hip hop
+				  :duration_ms 327881; #duration
+				  wd:Q1357284 66; #id - popularity
+				  :danceability 0.73; #id - danceability
+				  :energy 0.96; #id - energy
+				  :key 8; #id - key
+				  wd:Q622324 -5.72; #id - loudness
+				  :mode 1; #id - mode
+				  :instrumentalness 0.61; #id - instrumentalness
+				  wd:Q189214 177.83; #id - tempo
+				  :stream_count 6000; #id - stream_count
+				  wd:Q6256 wd:Q17; #id - country japan
+				  :explicit 0; #explicit
+				  wd:Q18127 :Independent. #id - record label
+
+:TRK-3EB4332CA819 wd:Q36992648 :Specific; #id - track name
+				  wd:Q483501 :Ashley_Graham; #id - artist
+				  wd:Q482994 :About_reveal; #id - album
+				  wd:Q115668563 :2021-01-18; #id - release date
+				  wd:Q188451 wd:Q83440; #id - music genre - country
+				  :duration_ms 90299; #duration
+				  wd:Q1357284 40; #id - popularity
+				  :danceability 0.61; #id - danceability
+				  :energy 0.49; #id - energy
+				  :key 5; #id - key
+				  wd:Q622324 -7.55; #id - loudness
+				  :mode 1; #id - mode
+				  :instrumentalness 89; #id - instrumentalness
+				  wd:Q189214 93.52; #id - tempo
+				  :stream_count 1000; #id - stream_count
+				  wd:Q6256 wd:Q155; #id - country brazil
+				  :explicit 1; #explicit
+				  wd:Q18127 wd:Q56760250. #id - record label sony music
