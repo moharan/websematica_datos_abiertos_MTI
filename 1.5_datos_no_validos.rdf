@@ -1,0 +1,18 @@
+@prefix : <http://example.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix p: <https://www.wikidata.org/wiki/Property:> .
+
+# ERROR 1: Usuario que no cumple con el interés musical obligatorio (p:P1775)
+:Usuario_Sin_Intereses 
+    p:P106 wd:Q1709010 . 
+
+# ERROR 2: Concierto con etiqueta (label) como URI en lugar de texto plano
+:Concierto_Formato_Erroneo
+    wd:P31 wd:Q182832 ;
+    :label :Evento_Santiago ; # Error: Se esperaba un LITERAL, se entregó un IRI
+    wd:P175 wd:Q485039 .
+
+# ERROR 3: Músico con infracción de cardinalidad (dos años de nacimiento registrados)
+:Musico_Doble_Fecha
+    wd:Q34379 wd:Q6607 ;
+    wd:Q14819852 wd:Q2474, wd:Q2481 . # Error: Supera el maxCount 1 de SHACL
