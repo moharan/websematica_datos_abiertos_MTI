@@ -8,7 +8,7 @@
     a sh:NodeShape ;
     sh:targetNode :Rangi_Becerra, :Mauricio_Beltran, :Felipe_Troncoso;
     sh:property [
-        sh:path p:P1775; #Intereses musicales
+        sh:path p:P1775; # Intereses musicales
         sh:minCount 1;
         sh:nodeKind sh:IRI;
     ] ;
@@ -19,7 +19,7 @@
 
 #Conciertos
 :ConcertShape
-    a sh:NodeShap;
+    a sh:NodeShape;
     sh:targetSubjectsOf wd:P31; 
     sh:property [
         sh:path :label;
@@ -27,24 +27,47 @@
         sh:nodeKind sh:Literal;
     ] ;
     sh:property [
-        sh:path wd:P175; #Artista
+        sh:path wd:P175; # Artista
         sh:minCount 1;
         sh:nodeKind sh:IRI;
     ] ;
     sh:property [
-        sh:path wd:P276; #Ubicaciones/Año
+        sh:path wd:P276; # Ubicaciones/Año
         sh:minCount 2;
     ] .
 
 #Bandas
 :BandShape
     a sh:NodeShape;
-    sh:targetSubjectsOf wd:Q3373417; #país de origen
+    sh:targetSubjectsOf wd:Q3373417; # Se identifica por tener País de origen
     sh:property [
-        sh:path wd:Q188451; #Género
+        sh:path wd:Q188451; # Género
         sh:minCount 1;
     ] ;
     sh:property [
-        sh:path wd:Q482994; #Álbumes
+        sh:path wd:Q482994; # Álbumes
         sh:minCount 1;
+    ] .
+
+#Álbumes
+:AlbumShape
+    a sh:NodeShape;
+    sh:targetSubjectsOf wd:Q3972943; # Se identifica por tener Fecha de lanzamiento
+    sh:property [
+        sh:path wd:Q7366; # Canciones
+        sh:minCount 1;
+    ] ;
+    sh:property [
+        sh:path wd:Q18127; # Sello discográfico
+        sh:maxCount 1; # Opcional, pero si existe, solo uno
+    ] .
+
+# Integrantes / Músicos
+:MusicianShape
+    a sh:NodeShape;
+    sh:targetSubjectsOf wd:Q34379; # Se identifica por tener Instrumentos
+    sh:property [
+        sh:path wd:Q14819852; # Año de nacimiento
+        sh:minCount 1;
+        sh:maxCount 1;
     ] .
